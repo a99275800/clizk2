@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/260304-nova-fronteira-da-ia-invadir-a-vida-real/","dg-note-properties":{}}
+---
+
+Para que a inteligência artificial alcance o próximo patamar de utilidade, e sobretudo de lucro, ela precisa de algo que não está na internet: o contexto da vida real (...) **Dominar o mundo digital já não basta. Agora, elas querem conquistar o seu mundo “offline”**. (...) **interesse tão grande por dispositivos “vestíveis”** (...) Para que a inteligência artificial alcance o próximo patamar de utilidade, e sobretudo de lucro, **ela precisa de algo que não está na internet: o contexto da vida real**. (...) a ponte não está na tecnologia, mas na “permissão social” (...) **incluir sensores como localizadores, câmeras e microfones** — e com isso trazer a promessa de um assistente que realmente entende o contexto do momento. (...) implica **cedermos acesso a dados ainda mais íntimos**. E a aceitação não virá de uma única decisão definitiva, mas por pequenas concessões cotidianas, gradualmente normalizadas pela utilidade e sedução comercial. (...) O vencedor será quem primeiro conseguir conquistar nosso mundo offline com a promessa de **transformar vigilância em conveniência**.
+
+ABDO, I. A corrida das big techs pelo seu mundo “offline”. Disponível em: <https://www.nexojornal.com.br/ensaio/2026/03/01/big-techs-inteligencia-artificial-wearable-ai-pin-open-ai-internet-offline>. Acesso em: 4 mar. 2026.
+
+Criado em 04-03-2026 — #iA #bnw #privacidade #capitalismo [[Capitalismo\|Capitalismo]], [[IA-inteligencia-artificial-IA-ou-AI-index\|IA-inteligencia-artificial-IA-ou-AI-index]], [[Privacidade\|Privacidade]], [[Brave new world\|Brave new world]].

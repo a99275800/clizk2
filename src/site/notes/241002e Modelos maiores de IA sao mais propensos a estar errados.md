@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/241002e-modelos-maiores-de-ia-sao-mais-propensos-a-estar-errados/","dg-note-properties":{}}
+---
+
+As versões mais recentes do GPT da OpenAI, do LLaMA da Meta e do Bloom de código aberto são [mais inclinadas a gerar respostas erradas do que a admitir ignorância](https://nature.us17.list-manage.com/track/click?u=2c6057c528fdc6f73fa196d9d&id=83f889bb46&e=d812ece371) quando comparadas a encarnações anteriores dos modelos de IA. "Eles estão respondendo quase tudo hoje em dia. E isso significa mais respostas corretas, mas também mais incorretas", diz o pesquisador de IA José Hernández-Orallo, que foi coautor de um estudo que testou os modelos em milhares de prompts. A equipe também descobriu que todos os modelos ocasionalmente erravam até mesmo perguntas fáceis e que as pessoas não são muito boas em detectar respostas imprecisas.
+
+(email na pasta "atrasadas") - #IA  [[IA-inteligencia-artificial-IA-ou-AI-index\|IA-inteligencia-artificial-IA-ou-AI-index]] AI (mix algoritmos ?) #bnw [[Brave new world\|Brave new world]] RQR17a ex-76U12m - 2024-10-02 13:08  - #iA [[Algoritmos\|Algoritmos]] RQR17E e big data + RQR17E1 automação, robótica e consequências econômicas + RQR17F2 hackers;

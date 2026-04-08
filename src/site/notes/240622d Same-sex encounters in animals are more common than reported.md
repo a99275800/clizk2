@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/240622d-same-sex-encounters-in-animals-are-more-common-than-reported/","dg-note-properties":{}}
+---
+
+Same-sex encounters in animals ‘more common than reported (...) The Guardian, 21 Jun 2024, Hannah Devlin, Science correspondent. George Murray Levick, an explorer with the Scott Antarctic expedition, spent the southern summer of 1911-12 taking detailed notes on the breeding cycle of Adélie penguins. Male penguins, he was surprised to discover, frequently had sex with other males, but this fact was deemed too shocking for the official expedition report, and it was 50 years before it was noted in the scientific literature. (...) A survey of scientists found they widely observe, yet seldom publish on, same-sex sexual behaviour in primates and other mammals. (...) The survey found that, of 65 researchers working on 52 species, 77% had observed same-sex sexual behaviour such as mounting. But only 48% had collected data and just 19% had published their findings, according to the study in PLOS One. Article Name:Same-sex encounters in animals ‘more common than reported’ -  Publication:The Guardian -  Section:News - Author:Hannah Devlin Science correspondent -  Start Page:3 - End Page:3. 
+
+(q.v.: #LGBT [[Questao LGBTQ+\|Questao LGBTQ+]] a questão homofobia) (q.v.: #biologia  biologia) (q.v.: #ciência-neutra neutralidade científica RQR6k8). V. 
+[[55U30j cientistas verificaram comportamento homossexual entre 1500 especies animais\|55U30j cientistas verificaram comportamento homossexual entre 1500 especies animais]]
