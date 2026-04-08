@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/250529m-gangue-das-lives-assalta-turistas-no-guaruja-e-posta/","dg-note-properties":{}}
+---
+
+‘Gangue das Lives’ assalta turistas no Guarujá e posta imagens nas redes sociais. Grupo mira principalmente pessoas com correntinhas de ouro, relógios e celulares; SSP diz que gravações estão sendo analisadas para a identificação dos suspeitos (...) Uma nova modalidade de assaltos assusta moradores e turistas do [Guarujá](https://www.estadao.com.br/tudo-sobre/guaruja-sp/?srsltid=AfmBOoqApsYmxGx2swqxE3VbreCZFwl2XTO_eitVs-epn3a3pI2vWUnV), cidade conhecida pelas belas praias, no litoral de São Paulo. Um grupo de suspeitos aborda e assalta as vítimas em pontos turísticos, foge com o produto do roubo antes da chegada da polícia e depois posta as imagens em vídeos no Instagram. Essa exposição das ações levou o grupo a ser conhecido como ‘Gangue das Lives’ ([https://www.estadao.com.br/sao-paulo/video-gangue-das-lives-assalta-turistas-no-guaruja-e-posta-imagens-nas-redes-sociais-nprm/](https://www.estadao.com.br/sao-paulo/video-gangue-das-lives-assalta-turistas-no-guaruja-e-posta-imagens-nas-redes-sociais-nprm/))
+
+#brasis [[Brasis\|Brasis]] RQR16a ex-12S65z #redsoc [[REDSOC redes sociais\|REDSOC redes sociais]] #bnw [[Brave new world\|Brave new world]] RQR17a ex-76U12m #wtf [[300621n WTF!_ index RQR10F4\|300621n WTF!_ index RQR10F4]] #crime [[Crime e violencia\|Crime e violencia]] RQR5L ex-231109i

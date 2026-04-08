@@ -4,8 +4,6 @@
 
 Este é o _index generalis_ do **projeto Zettelkasten**, iniciado em 05/08/2018 20:49. Não **deverá haver nenhum** vb. superior a este. E os portais serão listados aqui (*se houver*. Não temos mais um listão tipo índice de capítulos e temas, como havia na Encyclopaedia, porque aqui a ideia é navegar por tags).
 
-pelasmordedeus publica essa porra merda caralho!! cu buceta!! caralho da NONNA!!!
-
 ==**LISTA EXPLICADA DOS SUB-INDEXES**==
 
 Trazido do EV em 18 de janeiro de 2026 (por ordem de relevância atual)
