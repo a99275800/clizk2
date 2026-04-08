@@ -1,0 +1,31 @@
+---
+{"dg-publish":true,"permalink":"/hilda-hilst/","dg-note-properties":{}}
+---
+
+tags: #from_encyclo
+parent: [[souorfaoporenquanto\|souorfaoporenquanto]]
+
+## Hilda Hilst
+
+----
+
+ por Cláudia Lage
+
+ http://rascunho.gazetadopovo.com.br/palavras-do-sol/<br>
+
+ E o que foi a vida? Uma aventura obscena de tão lúcida. / Hilda Hilst<br>
+
+“Eu fiz tudo o que pude fazer”, disse Hilda Hilst em entrevista à Folha de S. Paulo, em 1999. A escritora estava com 69 anos. Autora de 40 livros, não hesitou em afirmar à jornalista, “Não escrevo mais”. A decisão não vinha do desinteresse pela escrita, nem por algum ressentimento de ter tido uma carreira literária brilhantemente criativa e, na mesma proporção, solitária e obscura, mas de uma contestação: “Já disse o que tinha a dizer, e a da melhor forma que pude”.<br>
+
+Foi justamente a forma, ou a linguagem, a grande companheira de Hilda em sua vida literária. Ao se mudar para a Casa do Sol, aos trinta e cinco anos, com o então marido Dante Casarini, Hilda deixou uma vida social intensa para se dedicar exclusivamente à literatura. Opção que manteve até o fim de sua vida, aos 73 anos. Opção que a tornou uma escritora de inspiração inquieta e transgressora, ou foi antes a sua inquietude e a transgressão que a fizeram optar radicalmente pela literatura. Amante da física e da filosofia, reconhecia em escritores como Joyce e Kafka a dimensão einsteiniana do espaço e do tempo. “Por isso, não acredito mais no texto linear”, ela disse uma vez, “em romances com começo, meio e fim”. Realmente, quem for corajoso o bastante para ler Hilda Hilst, irá se deparar com um narrador essencialmente lírico, cuja voz anuncia pensamentos, reflexões, sentimentos e atos, mas que nunca exercerá, como faz o narrador mais prosaico, o papel de organizador dessas anunciações. “Nunca é assim na própria vida”, ela considerava, destruindo conscientemente toda e qualquer hierarquia em sua escrita. “Minha linguagem é inovadora sim, e essencialmente poética. Não obedece a convenções gramaticais, tem outro ritmo porque não pensamos nem sentimos de forma simplezinha, organizada ou linear”, afirmou, em uma de suas últimas entrevistas.<br>
+
+“Cheguei aqui nuns outubros de um ano que não sei, não estava velha e não estou”, fala a narradora de Matamouros, novela pertencente ao livro Tu não de moves de ti, um dos mais densos e belos da prosa de Hilst, “talvez jamais ficarei porque faz-se há muito tempo nos adentros importante saber e sentimento”. E depois dessas primeiras frases, a narrativa mergulha num ritmo insinuante e ardoroso, sem praticamente mais interrupções de pontos finais e parágrafos a ordenar os assuntos, a separar o que se diz do que se sente, a elucidar o que é memória ou acontecimento. “Amei de maneira escura porque pertenço à Terra, Matamouros me sei desde menina, nome de luta que com prazer carrego e cuja origem longínqua desconheço, Matamouros talvez porque mato-me a mim mesma desde pequenina”. E assim, nós, capturados pelo serpentear mágico da palavra de Hilda, conhecemos essa menina que se relaciona com todos e tudo com uma sensualidade e sexualidade exacerbadas: “desde sempre tudo toquei, só assim é que conheço o que vejo, tocava os morangos antes do vermelho, tocava-os depois gordo-escorridos, tocava-os com a língua também, mexia tudo muito, tanto, que a mãe chamou um homem para que fizesse rezas sobre mim”.<br>
+
+A busca dessa escrita não linear, a ausência de um narrador que organiza os eventos, que dá seqüência ao enredo, situa o leitor em um espaço e tempo, apresenta personagens e conflitos, expõe sentimentos justificados e reflexões contextualizadas, desenvolve acontecimentos até o seu clímax e inevitável desfecho, exige tanto do leitor quanto a literatura exige da escritora, Hilda sabia. “Sei que não escrevo do jeito que a grande maioria dos leitores está acostumado a ler”, profere, com a consciência de que a ânsia criativa e a proposta criadora que sua arte demandava poderiam ter um preço. “A minha forma é inovadora, mas não incompreensível.” Hilda não se surpreendia de provocar estranhamento no leitor, o que a espantava era o rótulo da incompreensão.<br>
+
+Aclamada pela crítica em grande parte de sua carreira, premiada muitas vezes, e até se não o fosse, Hilda tinha consciência do seu trabalho de escritora. Mais tarde, a própria crítica e o meio literário silenciaram a respeito de sua obra. Quando não havia o silêncio, havia a classificação errônea de que era pornográfica, ou de complexa, dois adjetivos que a própria Hilda não resistia a dar uma resposta irônica: em toda a sua vida, ela nunca tinha visto duas qualidades como aquelas andarem juntas. No entanto, não era a ausência da crítica, mas a dos leitores que mais a incomodava. Numa tarde, na Casa do Sol, uma amiga foi visitá-la, e a encontrou chorando em seu escritório. Preocupada, perguntou se havia acontecido alguma coisa de grave. Hilda foi direta em sua resposta: “Eu não sou lida!”, disse. E ali estava o maior lamento sobre a sua obra. Não ser lida. Era isso que havia acontecido de grave.<br>
+
+Quando sua obra completa foi enfim relançada pela editora Globo, em 2002, e começou a crescer o interesse em torno de seu nome, a reação de Hilda foi plácida. “Fico feliz, mas agora isso não tem mais tanta importância.” A escritora, com 72 anos, tinha a convicção de que a sua missão literária estava cumprida. “Não escrevo mais”, ela havia dito à jornalista, e completou: “Está tudo lá”. Lá: em seus romances, contos, poemas, peças, uma obra vasta e surpreendente, que atrai cada vez mais leitores, fascinados pelo seu texto pulsante e desconcertante, pelo intenso fluxo de imagens e sensações que a sua leitura desperta. “O escritor e seus múltiplos vêm nos dizer”, ela escreveu, em um dos seus últimos textos, “Tentou na palavra o extremo-tudo”. Palavras que eram praticamente um epíteto de sua obra, “Esboçou-se santo, prostituto e corifeu”, de sua relação apaixonada com a escrita, “Transgressor metalescente de percursos”, de sua entrega absoluta à sua voz criativa, “Colou-se à compaixão, abismos e à sua própria sombra”, consciente de todos os riscos, sim, “Poupem-no o desperdício de explicar o ato de brincar”, mas, principalmente, de toda a liberdade artística de seguir o próprio caminho: “Sinto-me livre para fracassar”.<br>
+
+
+
