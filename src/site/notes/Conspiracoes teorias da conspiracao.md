@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/conspiracoes-teorias-da-conspiracao/","dg-note-properties":{}}
+---
+
+cvç: tag #conspiração sem RQR
+
+1. (...) no cerne, elas **relatam sobre os mesmos fatos verificáveis, só que associando suas notícias a especulações**. Por exemplo, que o vírus teria sido criado em laboratório, ou que seria menos perigoso do que se costuma afirmar. (...) "As mídias alternativas divulgam suas mensagens sutilmente, numa estratégica de comunicação de aspecto inofensivo. Notícias obviamente falsas não combinam com esse procedimento ([[68C55g como funcionam as teorias da conspiracao e fakenews\|68C55g como funcionam as teorias da conspiracao e fakenews]])
+2. pretenso manifesto da Ordem Secreta dos Illuminati, uma rede de quadros revolucionários organizada entre os maçons por um professor bávaro de direito chamado Adam Weishaupt. A organização de fato existiu na segunda metade do século xviii, com o propósito de formar uma elite esclarecida internacional, ou até antinacionalista, para trabalhar pela restauração da liberdade e da igualdade. A Ordem foi quase imediatamente denunciada pelos conservadores, o que levou ao seu banimento em 1785, passados menos de dez anos desde sua fundação, mas conspiracionistas de direita insistiam que ela continuava a existir e que os Illuminati eram as mãos ocultas que puxavam os fiozinhos por trás da Revolução Francesa (e, mais tarde, até mesmo da Revolução Russa). É tolice, mas a fantasia foi possível porque os Illuminati foram talvez os primeiros a propor que uma vanguarda revolucionária, ([[3z31 GRAEBER & WENGROW 2021 cat_obras opus\|3z31 GRAEBER & WENGROW 2021 cat_obras opus]] p.109)
+
+#indexes #conspiração  #bnw #comoohomempensa #política #fakenews | [[01A01a index generalis maximus generalis\|01A01a index generalis maximus generalis]] | [[Politica\|Politica]] | [[Fake news pos-verdade\|Fake news pos-verdade]] | [[Brave new world\|Brave new world]] | [[Covfefe\|Covfefe]] | [[Como o homem pensa vieses cognitivos\|Como o homem pensa vieses cognitivos]] | 

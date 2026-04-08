@@ -531,7 +531,7 @@ penologia questão carcerária penitenciária penologia problema carcerário pri
 #anarquia [[Anarquismo\|Anarquismo]]
 #paternidade [[Paternidade\|Paternidade]]
 #pensamento-desejoso [[Pensamento desejoso\|Pensamento desejoso]]
-#o-brasileiro [[0-brasileiro-complexo-vira-lata-malandro-index\|0-brasileiro-complexo-vira-lata-malandro-index]]
+#o-brasileiro [[o-brasileiro-complexo-vira-lata-malandro-index\|o-brasileiro-complexo-vira-lata-malandro-index]]
 #pérolas-literatura [[perolas-da-literatura-index\|perolas-da-literatura-index]]
 #misantropia [[misantropia-index\|misantropia-index]]
 #ennui tédio aborrecimento marasmo melancolia (muitos prováveis mixes) [[Ennui tedio aborrecimento marasmo melancolia\|Ennui tedio aborrecimento marasmo melancolia]]
