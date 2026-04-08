@@ -9,11 +9,11 @@ akin: [[Drogas\|Drogas]]
 
 ## 120923A EUA vão pagar viciados para deixarem as drogas
 
-> CORRÊA, Alessandra. 2023. “Uma Semana Sóbrio Vale R$ 100: Califórnia Vai Pagar Usuários Que Deixarem Drogas”. BBC News Brasil. September 12, 2023. https://www.bbc.com/portuguese/articles/cml8rvv1w7lo.
+> CORRÊA, Alessandra. 2023. “Uma Semana Sóbrio Vale RS 100: Califórnia Vai Pagar Usuários Que Deixarem Drogas”. BBC News Brasil. September 12, 2023. https://www.bbc.com/portuguese/articles/cml8rvv1w7lo.
 
 > UIUI 120923A GLA ok EV full DII no NSZ ok #ética #bnw #conjuri24  #ética   #bnw
 
-Uma semana sóbrio vale R$ 100: Califórnia vai pagar usuários que deixarem drogas. Já há programas assim há anos, e funciona. EUA vivem epidemia de overdose por Fentanil e estimulantes (cocaína) (110 mil mortes em 2022, 75% Fentanil).
+Uma semana sóbrio vale RS 100: Califórnia vai pagar usuários que deixarem drogas. Já há programas assim há anos, e funciona. EUA vivem epidemia de overdose por Fentanil e estimulantes (cocaína) (110 mil mortes em 2022, 75% Fentanil).
 
 ### Highlights & Notes
 

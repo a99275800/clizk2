@@ -11,7 +11,7 @@ tags: #proj_zetteltex #zettelkasten #ajuda #internas #admin #tech #powershell
 
 <# dicas sobre função:
 
-  parece que usando `function FunkPerere($path)` como nome de função é possível chamar uma função para atuar sobre um parâmetro contido numa Variable; mas talvez esse parâmetro tenha de ser um path...
+  parece que usando `function FunkPerere((cifrão)path)` como nome de função é possível chamar uma função para atuar sobre um parâmetro contido numa Variable; mas talvez esse parâmetro tenha de ser um path...
   
   a definição da function tem de estar antes da sua chamada
 
@@ -33,18 +33,18 @@ function FuncC
 {
   Write-Host "sou a função C"
 }
-$resp = Read-Host "escolha A, B ou C"
-if($resp -eq "a")
+(cifrão)resp = Read-Host "escolha A, B ou C"
+if((cifrão)resp -eq "a")
     {
         FunkHello
         FuncA
     }
-elseif($resp -eq "b")
+elseif((cifrão)resp -eq "b")
     {
         FunkHello
         FuncB
     }
-elseif($resp -eq "c")
+elseif((cifrão)resp -eq "c")
     {
         FunkHello
         FuncC

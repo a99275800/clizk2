@@ -4,7 +4,7 @@
 
 Trocado pelo Corolla Cross SFC5C16 (pode haver mais documentos em Evernote)
 ## compra das revisões programadas
- 9 de dezembro de 2025  — proposta da Aline por Whatapp: 3 revisões por R$ 2.748,25
+ 9 de dezembro de 2025  — proposta da Aline por Whatapp: 3 revisões por RS 2.748,25
 
 ## dados do carro
 Chassi: JTMDW3FV5SD342284
@@ -16,19 +16,19 @@ v. no fim desta nota
 
 ## proposta
 
-[13:11, 15/10/2025] Aline Rosa Da Toyota Noma: Valor da Fipe Toyota/Cross XRV 23/24 R$ 167.245,00 , valor da Rav4 25/25 R$ 349.290,00 cor cinza granito , valor da volta respeitando os custos que teremos, prezando a transparência da negociação R$ 185.000,00
+[13:11, 15/10/2025] Aline Rosa Da Toyota Noma: Valor da Fipe Toyota/Cross XRV 23/24 RS 167.245,00 , valor da Rav4 25/25 RS 349.290,00 cor cinza granito , valor da volta respeitando os custos que teremos, prezando a transparência da negociação RS 185.000,00
 
-[13:12, 15/10/2025] Aline Rosa Da Toyota Noma: emplacamento sem alienação R$ 900,00 (em 17-10-2025 Aline disse que ficará por conta da Noma essa despesa)
+[13:12, 15/10/2025] Aline Rosa Da Toyota Noma: emplacamento sem alienação RS 900,00 (em 17-10-2025 Aline disse que ficará por conta da Noma essa despesa)
 
-[13:12, 15/10/2025] Aline Rosa Da Toyota Noma: IPVA proporcional R$ 3.060,00
+[13:12, 15/10/2025] Aline Rosa Da Toyota Noma: IPVA proporcional RS 3.060,00
 
-[13:13, 15/10/2025] Aline Rosa Da Toyota Noma: valor total R$ 188.960,00
+[13:13, 15/10/2025] Aline Rosa Da Toyota Noma: valor total RS 188.960,00
 
 **nova versão, whatsapp de Roseli, 04/12/2025**
 Rav4 25/25 cinza granito 
-R$ 349.290,00
-Valor da volta R$ 184.290,00
-Sinal de negócio R$ 2.000,00
+RS 349.290,00
+Valor da volta RS 184.290,00
+Sinal de negócio RS 2.000,00
 (*por isso paguei 182.290 em 04/12/2025*)
 
 ## manuais do carro

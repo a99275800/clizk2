@@ -20,4 +20,12 @@
 ![260407-galeria-fotos-zettelkasten-1775606685135.webp](/img/user/assets/260407-galeria-fotos-zettelkasten-1775606685135.webp)
 ![260407-galeria-fotos-zettelkasten-1775606685662.webp](/img/user/assets/260407-galeria-fotos-zettelkasten-1775606685662.webp)
 ![260407-galeria-fotos-zettelkasten-1775606686186.webp](/img/user/assets/260407-galeria-fotos-zettelkasten-1775606686186.webp)
-![260407-galeria-fotos-zettelkasten-1775606686719.webp](/img/user/assets/260407-galeria-fotos-zettelkasten-1775606686719.webp)
+
+![260407-galeria-fotos-zettelkasten-1775689757836.webp](/img/user/assets/260407-galeria-fotos-zettelkasten-1775689757836.webp)
+![260407-galeria-fotos-zettelkasten-1775689758356.webp](/img/user/assets/260407-galeria-fotos-zettelkasten-1775689758356.webp)
+![260407-galeria-fotos-zettelkasten-1775689758874.webp](/img/user/assets/260407-galeria-fotos-zettelkasten-1775689758874.webp)
+![260407-galeria-fotos-zettelkasten-1775689759397.webp](/img/user/assets/260407-galeria-fotos-zettelkasten-1775689759397.webp)
+![260407-galeria-fotos-zettelkasten-1775689759929.webp](/img/user/assets/260407-galeria-fotos-zettelkasten-1775689759929.webp)
+![260407-galeria-fotos-zettelkasten-1775689760450.webp](/img/user/assets/260407-galeria-fotos-zettelkasten-1775689760450.webp)
+
+

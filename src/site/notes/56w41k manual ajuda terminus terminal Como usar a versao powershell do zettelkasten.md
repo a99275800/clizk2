@@ -35,21 +35,21 @@ pode usar "zf coe" para ver a ajuda do zettel_functions, tem muita coisa importa
 
 em relação ao último zettel utilizado (pelo ZC geralmente) for yout convenience, data are stored:
 
-    - the file object in.. $x (nome completo do file)
+    - the file object in.. (cifrão)x (nome completo do file)
 
-    - the ID in............$z (and in the clipboard) (usa essa ID para chamar o ZC)
+    - the ID in............(cifrão)z (and in the clipboard) (usa essa ID para chamar o ZC)
 
-    - the content in.......$y (texto dele)
+    - the content in.......(cifrão)y (texto dele)
 
-    - the parent in........$w
+    - the parent in........(cifrão)w
 
-    - the tags in..........$lwft
+    - the tags in..........(cifrão)lwft
 
-    - the caption in.......$lwfc
+    - the caption in.......(cifrão)lwfc
 
-    - the fullpath in......$lwfp
+    - the fullpath in......(cifrão)lwfp
 
-    - the basename in......$k
+    - the basename in......(cifrão)k
 
     
 
