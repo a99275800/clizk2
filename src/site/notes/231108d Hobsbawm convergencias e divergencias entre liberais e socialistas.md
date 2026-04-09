@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/231108d-hobsbawm-convergencias-e-divergencias-entre-liberais-e-socialistas/","dg-note-properties":{}}
+---
+
+V. 7d8: o [[Liberalismo\|Liberalismo]] e o [[Comunismo\|Comunismo]]/socialismo tinham em comum isso: porque eram ramos da árvore do [[Humanismo\|Humanismo]]/[[Iluminismo\|Iluminismo]], eram ideologias crentes no progresso: todos **sonhavam com a inevitabilidade, ao final da evolução da história, de "uma amável anarquia** que é a [[Utopia\|Utopia]] de todos eles". Divergiam em que o liberalismo supunha a sociedade como um agregado de átomos em luta, cuja força motriz estava no interesse próprio e na competição, e a esquerda voltava à antiga tradição que via a sociedade como o cenário natural da vida do homem, que é naturalmente um ser comunitário. ([[3z23 HOBSBAWM 2020 cat_obras opus\|3z23 HOBSBAWM 2020 cat_obras opus]], p.377; #política #direita-esquerda #cultwars)

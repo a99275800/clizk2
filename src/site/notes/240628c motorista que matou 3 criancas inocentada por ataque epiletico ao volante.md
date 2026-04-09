@@ -1,0 +1,12 @@
+---
+{"dg-publish":true,"permalink":"/240628c-motorista-que-matou-3-criancas-inocentada-por-ataque-epiletico-ao-volante/","dg-note-properties":{}}
+---
+
+
+Driver in fatal school crash had epileptic seizure and will not be prosecuted. A woman who crashed her Land Rover into a preparatory school and killed two eight-year-old girls will not be charged after it was found she had an epileptic seizure at the wheel. Nuria Sajjad and Selena Lau, both eight, were killed when a Land Rover Defender crashed through the fence of the Study prep school in Wimbledon, south-west London, last July. The school was holding an end-ofyear tea party at the time. The Crown Prosecution Service (CPS) said Claire Freemantle, the 47-year-old driver, had had no prior diagnosis of a medical condition and had not had a seizure before. Jaswant Narwal, a prosecutor with the CPS, said:  (...) “Because there is nothing to suggest the driver could have done anything to predict or prevent this tragedy, it is not in the public interest to pursue a criminal prosecution.” In a joint statement, the parents (...) said:  “All the victims of the events of 6 July 2023 did nothing wrong. We were all in the safest place we could have been outside our own homes. (...) Some of us will never experience joy again (...)  Nuria and Selena deserved better.” (...) After the crash, 16 people were treated at the scene and 10 were taken to hospital. (Article Name: Driver in fatal school crash had epileptic seizure and will not be prosecuted – CPS Publication: The Guardian. Date:  27 Jun 2024. Author: Sammy Gecsoyler Start Page: 6 End Page: 6). q.v.: #caos_teoria_do [[Acaso fatalidade fortuitos coincidencias imprevisivel\|Acaso fatalidade fortuitos coincidencias imprevisivel]] [[alea na historia\|alea na historia]] RQR21b5 ex-50G56s ex-95N13x inevitável (mix 7H5) natureza caótica da vida - #espantos  espantos - direito - #direito [[Direito\|Direito]] - #o_sentido [[O sentido\|O sentido]] RQR6H3 ex-78D75i (mix 6o18)#bem-vs-mal RQR6d8 ex-48e89s problema do [[Mal\|Mal]] bondade contra maldade  [[Espantos\|Espantos]]
+
+gpho oz 240628c
+
+https://photos.google.com/photo/AF1QipPvaHN7aB55xKU26AWVVvnEGaLg-PPYM5mgzJsB
+
+https://photos.google.com/photo/AF1QipMkg5910IF5gF1tfwWL7Fr2FJ5B4qXPUDvbx88c

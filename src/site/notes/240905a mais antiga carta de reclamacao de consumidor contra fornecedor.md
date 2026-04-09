@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/240905a-mais-antiga-carta-de-reclamacao-de-consumidor-contra-fornecedor/","dg-note-properties":{}}
+---
+
+
+Think customer service is bad now? Read this 4,000-year-old complaint letter - Meet Ea-Nasir, a shady ancient merchant—and modern meme - “I shall inflict grief on you!” is just one of the threats irate customers directed at Ea-nāṣir, a shady copper merchant who operated in Mesopotamia some 4,000 years ago. (...) the complaint letter enjoys a Guinness World Record as the world’s oldest (...) The letter, dictated by Nanni, slams Ea-nāṣir for promising “fine quality copper ingots,” then failing to follow through on the deal. Instead, Nanni complains, the merchant has sent low-grade copper, treated him and his messenger with contempt, and taken his money—seemingly because Nanni owes him “one (trifling) mina of silver.” (A mina was the equivalent of approximately one-fifth of an ounce.) (...) “I will not accept here any copper from you that is not fine quality,” he angrily concludes, according to one translator. “I shall…select and take the ingots individually in my own yard, and I shall exercise against you my right of rejection because you have treated me with contempt.” Later, Nanni warns: “Because you despised me, I shall inflict grief on you!”
+
+Blakemore, Erin. “Think Customer Service Is Bad Now? Read This 4,000-Year-Old Complaint Letter.” History, May 31, 2024. https://www.nationalgeographic.com/history/article/ea-nasir-copper-merchant-ur. | ‌uiui dii 240905a
+
+#nada-muda  [[Nada muda homem nao evolui historia se repete imobilismo\|Nada muda homem nao evolui historia se repete imobilismo]] ex-49p34k (mix RQR6j6d RQR7H3) #natureza-humana  #cenas-história [[cenas historia cenas impressionantes\|cenas historia cenas impressionantes]] ex-231109f #história #história [[Historia\|Historia]] ex-88J26q misc div #direito [[Direito\|Direito]] #malandragem  malandragem #ética RQR4a6  aula palestra #direito consumidor lins #escritos - Zettel criado em 05/09/2024
