@@ -10,5 +10,5 @@ akin: [[Historia\|Historia]]  | [[O passado e um lugar muito estranho\|O passado
 
 v. 09E35j capas jornais revistas antigos história do brasil em BTB
 
-collor, getúlio vargas, lula, revolução, ditadura, república proclamação, AI-5
+collor, getúlio vargas, lula, revolução, ditadura, república proclamação, AI-5 #imagens-históricas 
 

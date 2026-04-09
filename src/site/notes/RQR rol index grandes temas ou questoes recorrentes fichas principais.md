@@ -312,8 +312,8 @@
 * #HTL [[HTL timeline da historia\|HTL timeline da historia]] RQR7b3 ex-33F69w HTL timeline principal da história mundial mundo
 * RQR 7b4 - timeline história pré-humana do planeta e vida na terra
 * RQR 7b5 - 27I78g HTL anexos das timelines
-* #imagens [[Imagens historicas\|Imagens historicas]] RQR7c ex-26K10t imagens sobre história históricas (mix com galeria de imagens) 
-* #imagens [[Galeria de imagens\|Galeria de imagens]] (obsoleto? mix com [[Imagens historicas\|Imagens historicas]])
+* #imagens-históricas  [[Imagens historicas\|Imagens historicas]] RQR7c ex-26K10t imagens sobre história históricas (mix com galeria de imagens) 
+* #imagens-históricas  [[Galeria de imagens\|Galeria de imagens]] (obsoleto? mix com [[Imagens historicas\|Imagens historicas]])
 * RQR 7f1 - eras cósmicas história do universo
 * RQR 7f4 - história pré-literária pré-história
 * RQR 7f5 - história idade antiga
@@ -570,6 +570,11 @@ penologia questão carcerária penitenciária penologia problema carcerário pri
 #solidão [[solidao\|solidao]]
 #saudade [[saudade\|saudade]]
 #geopolítica [[geopolitica-index\|geopolitica-index]]
+#febeapa [[FEBEAPA-festival-de-besteiras-que-assola-o-pais\|FEBEAPA-festival-de-besteiras-que-assola-o-pais]]
+#QuintaSerieFazSuaParte [[quinta-serie-faz-sua-parte\|quinta-serie-faz-sua-parte]]
+#vergonha-alheia [[vergonha-alheia-index\|vergonha-alheia-index]]
+#PropostasTemos [[propostas-temos-ideias-de-jerico-dos-politicos\|propostas-temos-ideias-de-jerico-dos-politicos]]
+#para-os-anais [[para-os-anais-index\|para-os-anais-index]]
 
 
 

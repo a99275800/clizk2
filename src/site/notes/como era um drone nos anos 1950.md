@@ -3,7 +3,7 @@
 ---
 
 
-tags: #história #imagens 
+tags: #imagens-históricas 
 parent: [[Imagens historicas\|Imagens historicas]]
  
 b. img em 3Z18 p30

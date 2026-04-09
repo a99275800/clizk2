@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/68-a21e-display-pre-historia-hominideos-jpg/","dg-note-properties":{}}
 ---
 
-tags:   #história #imagens #mapas 
+tags:   #imagens-históricas #mapas 
 akin: [[Historia\|Historia]]
 akin: [[Imagens historicas\|Imagens historicas]]
 akin: [[Historia pre-literaria ou pre-historia\|Historia pre-literaria ou pre-historia]] 

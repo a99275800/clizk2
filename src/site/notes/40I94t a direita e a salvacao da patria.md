@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-i94t-a-direita-e-a-salvacao-da-patria/","dg-note-properties":{}}
 ---
 
-tags:  #brasis #direita-esquerda #cultwars #política #charges #imagens #filohumor #humor #egoísmo-vícios #star
+tags:  #brasis #direita-esquerda #cultwars #política #charges #imagens-históricas  #filohumor #humor #egoísmo-vícios #star
 akin: [[Politica\|Politica]] | [[cultwars-guerras-culturais\|cultwars-guerras-culturais]] | [[filohumor-humor-filosofico-index\|filohumor-humor-filosofico-index]] | [[Liberalismo\|Liberalismo]] | [[Conservadorismo\|Conservadorismo]] | [[Burguesia\|Burguesia]] | [[direita-vs-esquerda-vs-direita\|direita-vs-esquerda-vs-direita]]
 
 ## 40I94t a direita e a salvação da pátria 

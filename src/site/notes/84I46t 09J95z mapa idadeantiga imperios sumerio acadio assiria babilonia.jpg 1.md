@@ -4,7 +4,7 @@
 
 
 
-tags:   #história #imagens #mapas
+tags:   #imagens-históricas #mapas
 parent: [[Imagens historicas\|Imagens historicas]]
 
  

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/210621o-aluno-e-professor-de-filosofia-nao-entendem/","dg-note-properties":{}}
 ---
 
-tags:  #imagens #lol #charges #filohumor #praquefilo #métodos-da-filosofia 
+tags:   #lol #charges #filohumor #praquefilo #métodos-da-filosofia 
 parent: [[filohumor-humor-filosofico-index\|filohumor-humor-filosofico-index]] | [[Os metodos da filosofia\|Os metodos da filosofia]] | [[Epistemologia\|Epistemologia]] | [[Para que serve a filosofia\|Para que serve a filosofia]]
 
 meme;  #filohumor

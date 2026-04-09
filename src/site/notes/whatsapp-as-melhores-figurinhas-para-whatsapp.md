@@ -94,7 +94,7 @@ A situação é desesperada #charges
 ![vicios ira RQR 6d13g-1775343406218.webp](/img/user/assets/vicios%20ira%20RQR%206d13g-1775343406218.webp)
 Kapou!
 
-![Nova onda-1775343463750.webp\|214](/img/user/assets/Nova%20onda-1775343463750.webp)
+![Nova onda-1775343463750.webp](/img/user/assets/Nova%20onda-1775343463750.webp)
    Bora, manos, o mundo está maduro pra gente conquistar!
 
 

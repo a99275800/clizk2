@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/57-k51c-09-k78f-mapa-imperio-medo-gpho-151119a-png/","dg-note-properties":{}}
 ---
 
-tags:   #história #imagens #mapas 
+tags:   #imagens-históricas #mapas 
 akin: [[Historia\|Historia]]
 akin: [[Imagens historicas\|Imagens historicas]] 
 

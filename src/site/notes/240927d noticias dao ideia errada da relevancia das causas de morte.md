@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/240927d-noticias-dao-ideia-errada-da-relevancia-das-causas-de-morte/","dg-note-properties":{}}
+---
+
+![240927d noticias dao ideia errada da relevancia das causas de morte-1775418820044.webp](/img/user/assets/240927d%20noticias%20dao%20ideia%20errada%20da%20relevancia%20das%20causas%20de%20morte-1775418820044.webp)Há uma imagem (ruim) sumariando os resultados, em BTB e IC e [gpho](https://photos.fife.usercontent.google.com/pw/AP1GczN05YbaMXd973K-WrP8JkrBcHyme3ZuhpKKYVxpyeQC1rdUuLOtU9WGnw=w2048-h1499-s-no?authuser=0) crossref-87G9FH08DJYK0987RYD0WWEFY
+
+Does the news reflect what we die from? Jun 18, 2019 (...) One study attempted to look at this from the perspective of what we die from: is what we actually die from reflected in the media coverage these topics receive? (...) What we die from; what we Google; what we read in the news
+
+around one-third of the considered causes of deaths resulted from heart disease, yet this cause of death receives only 2-3 percent of Google searches and media coverage (...) just under one-third of the deaths came from cancer; we actually google cancer a lot (37 percent of searches) and it is a popular entry here on our site; but it receives only 13-14 percent of media coverage (...) we searched for road incidents more frequently than their share of deaths, however, they receive much less attention in the news (...) the largest discrepancies concern violent forms of death: suicide, homicide and terrorism. All three receive much more relative attention in Google searches and media coverage than their relative share of deaths. When it comes to the media coverage on causes of death, violent deaths account for more than two-thirds of coverage in the New York Times and The Guardian but account for less than 3 percent of the total deaths in the US
+
+Ritchie, Hannah. 2019. “Does the News Reflect What We Die From?” World Economic Forum. June 18, 2019. Disponível em: <https://www.weforum.org/agenda/2019/06/does-the-news-reflect-what-we-die-from/>, acesso em 27 de setembro de 2024. 
+
+‌UIUI DII BTB 240927d - #mídia [[Midia\|Midia]] RQR17F ex-94R16r - #bnw [[Brave new world\|Brave new world]] RQR17a ex-76U12m - #redsoc [[REDSOC redes sociais\|REDSOC redes sociais]] - #comoohomempensa [[Como o homem pensa vieses cognitivos\|Como o homem pensa vieses cognitivos]] RQR18e2 ex-82D58g - #fakenews [[Fake news pos-verdade\|Fake news pos-verdade]] 45d21t RQR17d no brave new world - Zettel criado em 27/09/2024

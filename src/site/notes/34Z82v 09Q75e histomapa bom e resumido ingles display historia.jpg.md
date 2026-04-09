@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/34-z82v-09-q75e-histomapa-bom-e-resumido-ingles-display-historia-jpg/","dg-note-properties":{}}
 ---
 
-tags:   #história #imagens #mapas 
+tags:   #imagens-históricas #mapas 
 akin: [[Historia\|Historia]]
 akin: [[Imagens historicas\|Imagens historicas]]
 

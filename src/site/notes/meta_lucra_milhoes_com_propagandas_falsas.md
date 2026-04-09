@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/meta-lucra-milhoes-com-propagandas-falsas/","dg-note-properties":{}}
+---
+
+Meta arrecada US(cifrão) 16 bilhões por ano com propagandas falsas ... **Valor representa 10% do faturamento anual da empresa** ... Reportagem de destaque do Reuters Special Report, escrita por Jeff Horwitz, repórter especializado em tecnologia no final do ano passado, documentos internos da Meta projetaram que 10% do faturamento anual se deve à divulgação de propagandas fake e golpes". Esses 10% **correspondem a estratosféricos US(cifrão) 16 bilhões** ... Meta deixou de identificar e de apagar uma avalanche de anúncios fraudulentos que expõem bilhões de usuários a esquemas criminosos de investimentos financeiros, cassinos online ilegais e venda de remédios falsos ... Muitas dessas fraudes partem **de anunciantes suficientemente suspeitos para serem detectados pelos sistemas internos de segurança** da Meta. Mas **a companhia só os proíbe quando seus sistemas automatizados estimam em pelo menos 95% o grau de certeza de que se trata de fraude** ... quando o incauto clica numa dessas propagandas-golpe, passa a receber outras da mesma espécie, graças à aplicação dos algoritmos personalizados que se baseiam nos interesses do usuário
+
+VARELLA, Drauzio. Meta arrecada US(cifrão) 16 bilhões por ano com propagandas falsas. Folha de S.Paulo. Disponível em: <https://www1.folha.uol.com.br/colunas/drauziovarella/2025/11/meta-arrecada-us-16-bilhoes-por-ano-com-propagandas-falsas.shtml>. Acesso em: 21 nov. 2025.
+
+#redsoc #bnw #capitalismo #ética [[REDSOC redes sociais\|REDSOC redes sociais]] [[Brave new world\|Brave new world]] [[Capitalismo\|Capitalismo]] [[Fake news pos-verdade\|Fake news pos-verdade]] #fakenews 

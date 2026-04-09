@@ -16,9 +16,9 @@ vb. criado em 15/03/2015, 22h17m.
 
 Em Atenas, mais que em qualquer parte, foram achados exemplos de feitiços de amarração. A maioria era dirigida contra adversários em casos forenses. A litigância em Atenas era comparável à da América moderna (consequência da cultura democrática do debate público e da oratória). /135 #bruxaria 
 
-amostra de como devia se parecer uma estátua pintada, /125 #imagens #história 
+amostra de como devia se parecer uma estátua pintada, /125 #imagens-históricas 
 
-um ritual de sacrifício de touro preparado com guirlanda e cascos pintados, /122 #imagens #história 
+um ritual de sacrifício de touro preparado com guirlanda e cascos pintados, /122 #imagens-históricas 
 
 colheita da azeitona, precedida de preces, /121
 

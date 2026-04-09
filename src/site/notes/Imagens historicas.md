@@ -4,7 +4,7 @@
 
 ## 26K10t imagens sobre história históricas index 
 
-cvç: RQR 7c - 26K10t imagens sobre história históricas (vamos deixar sem tag, se precisar combina #história com #imagens);  chamava-se "26K10t imagens sobre história históricas index";
+cvç: RQR 7c - 26K10t imagens sobre história históricas (até 09/04/2026 estava sem tag, usando combinação `#história #imagens`; de 09/04/2026 em diante usar #imagens-históricas );  chamava-se "26K10t imagens sobre história históricas index";
 
 Talvez tenha um index separado para mapas
 
@@ -60,9 +60,9 @@ Talvez tenha um index separado para mapas
 50. Ilustrações sobre castelos e como [eram por dentro](https://photos.fife.usercontent.google.com/pw/AP1GczOUfAEQiPvQz6uTKmQQowimP-tHvYAk_lgyioQ5wTexjVrPRgLYRn4xAg=w409-h640-s-no?authuser=0), gal., [mais](https://photos.fife.usercontent.google.com/pw/AP1GczNhDWQ6GPCZgxAQbIMbTBqRxls2j_OfKRpHmF8ZDZS-pIy8hnAttlVvCA=w500-h2218-s-no?authuser=0)
 51. Arquivo de impressões [digitais do FBI](https://photos.fife.usercontent.google.com/pw/AP1GczMP0stbnXM1V1swCspCt7FX26JZXanZNxLPOsYpXwoWlwJbuSK7v9brpw=w1080-h1920-s-no?authuser=0), [aqui](https://photos.fife.usercontent.google.com/pw/AP1GczMWMe0_hCZ2k5IdY3nhryf6uAUYnJTIa0XMqY2kysx7GbO7DzLf5vU2ng=w640-h461-s-no?authuser=0)
 52. ![Democracia-1774186888693.png](/img/user/assets/Democracia-1774186888693.png)A rainha Vitória num retrato do que foi a monarquia: seus netos seriam reis da Alemanha, Rússia e Inglaterra na geração seguinte. #poder #tirania #democracia #política #imagens #cenas-história #história #espantos [[Espantos\|Espantos]], [[Imagens historicas\|Imagens historicas]], [[cenas historia cenas impressionantes\|cenas historia cenas impressionantes]], [[Poder\|Poder]], [[Monarquia\|Monarquia]], [[Politica\|Politica]] 
-53. ![Imagens historicas-1774218555667.png](/img/user/assets/Imagens%20historicas-1774218555667.png)Se a história da humanidade fosse um livro de mil páginas; segue [aqui](https://photos.fife.usercontent.google.com/pw/AP1GczNblZ4EWF-ko_zjp-9gCfawo8sTqvcNBkVFmGBWyEVEp9eo-eMNXMzZMA=w1080-h1230-s-no?authuser=0)  #mapas #imagens #história #cool #espantos #números-história #star
+53. ![Imagens historicas-1774218555667.png](/img/user/assets/Imagens%20historicas-1774218555667.png)Se a história da humanidade fosse um livro de mil páginas; segue [aqui](https://photos.fife.usercontent.google.com/pw/AP1GczNblZ4EWF-ko_zjp-9gCfawo8sTqvcNBkVFmGBWyEVEp9eo-eMNXMzZMA=w1080-h1230-s-no?authuser=0)  #mapas #imagens-históricas #cool #espantos #números-história #star
 
 54. A sala de controle ficou agitada em abril de 1970, com as pessoas lutando desesperadamente para salvar a [espaçonave comprometida Apollo 13](https://ichef.bbci.co.uk/ace/ws/771/cpsprodpb/a717/live/201e0570-2d09-11f1-ba67-f7b8dbc6a466.jpg.webp).
 
 
-tags:  #história #imagens #mapas #indexes #passado_estranho ; parent: [[Historia\|Historia]]; akin: [[01A01a index generalis maximus generalis\|01A01a index generalis maximus generalis]]  | [[O passado e um lugar muito estranho\|O passado e um lugar muito estranho]]
+tags:  #imagens-históricas #mapas #indexes #passado_estranho ; parent: [[Historia\|Historia]]; akin: [[01A01a index generalis maximus generalis\|01A01a index generalis maximus generalis]]  | [[O passado e um lugar muito estranho\|O passado e um lugar muito estranho]]

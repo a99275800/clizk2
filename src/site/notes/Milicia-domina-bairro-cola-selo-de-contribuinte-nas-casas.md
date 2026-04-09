@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/milicia-domina-bairro-cola-selo-de-contribuinte-nas-casas/","dg-note-properties":{}}
+---
+
+![Milicia-domina-bairro-cola-selo-de-contribuinte-nas-casas-1775428416147.webp](/img/user/assets/Milicia-domina-bairro-cola-selo-de-contribuinte-nas-casas-1775428416147.webp)resumo gemini, não confiável (paywall): A reportagem detalha como a milícia estabeleceu um domínio territorial e administrativo no conjunto Habitacional de Irajá, na Zona Norte do Rio de Janeiro, criando um "bairro particular". Os criminosos passaram a controlar serviços básicos e a estampar selos de "contribuinte" nas fachadas das casas que pagam as taxas extorsivas regularmente. Essa marcação serve como um controle visual para os milicianos identificarem quem está em dia com os pagamentos de segurança, limpeza e até iluminação. Além da cobrança de taxas, o grupo explora o monopólio da venda de gás, sinal de internet e transporte alternativo na região.
+
+LEAL, Arthur. **Milícia cria bairro em Irajá e cola selo de “contribuinte” em casas**. Globo.com. 22 maio 2019. Disponível em: <https://oglobo.globo.com/rio/milicia-cria-bairro-em-iraja-cola-selo-de-contribuinte-em-casas-23683928?versao=amp>. Acesso em: 5 abr. 2026.
+
+Mais sobre isso: "O Sacil, delimitado por várias cancelas que fecham ruas da área, tem guaritas e vigilantes. Nelas, há placas com o aviso “bairro seguro”. É possível constatar que nem todas as residências estão com os adesivos que indicam uma “contribuição” de pelo menos RS 20 por mês. Os poucos moradores que aceitam falar sobre o assunto demonstram medo. Segundo eles, os homens que cuidam da segurança circulam uniformizados. Nenhum anda ostensivamente armado, completa o Jornal O Globo." [aqui](https://www.plantaobrasil.net/news.asp?nID=104302)
+
+Criado em 05-04-2026 — #crime #brasis #polícia [[28g83v cultura miliciana quer tutelar sociedade e escolas militares tem a ver\|28g83v cultura miliciana quer tutelar sociedade e escolas militares tem a ver]] #bolsonaro #política 

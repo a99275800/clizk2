@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/90-d13d-09-j13u-mapa-1941-asia-antiga-tibet-birmania-siao-cochinchina-industao-turquestao-camboja-namtchaka-manchuria-jpg/","dg-note-properties":{}}
 ---
 
-tags:   #história #imagens #mapas 
+tags:   #imagens-históricas #mapas 
 akin: [[Historia\|Historia]]
 akin: [[Imagens historicas\|Imagens historicas]]
 

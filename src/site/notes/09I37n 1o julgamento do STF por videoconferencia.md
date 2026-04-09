@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/09-i37n-1o-julgamento-do-stf-por-videoconferencia/","dg-note-properties":{}}
 ---
 
-tags:  #covid-19 #história #direito #brasis #imagens 
+tags:  #covid-19 #história #direito #brasis #imagens-históricas 
 parent: [[Direito\|Direito]]
 akin: [[Ativismo judicial politizacao da justica e judicializacao da politica\|Ativismo judicial politizacao da justica e judicializacao da politica]]
 akin: [[Politica\|Politica]] 

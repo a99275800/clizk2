@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/45-e30p-09-f83x-mapa-da-pangeia-jpg/","dg-note-properties":{}}
 ---
 
-tags:   #história #imagens #mapas 
+tags:   #imagens-históricas #mapas 
 akin: [[Historia\|Historia]]
 akin: [[Imagens historicas\|Imagens historicas]]
 

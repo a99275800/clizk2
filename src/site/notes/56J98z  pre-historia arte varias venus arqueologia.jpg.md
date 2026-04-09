@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/56-j98z-pre-historia-arte-varias-venus-arqueologia-jpg/","dg-note-properties":{}}
 ---
 
-tags:   #história #imagens #mapas 
+tags:   #imagens-históricas #mapas 
 akin: [[Historia\|Historia]]
 akin: [[Imagens historicas\|Imagens historicas]]
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/19-l38x-display-historia-da-vida-pre-historia-2-jpg/","dg-note-properties":{}}
 ---
 
-tags:   #história #imagens #mapas 
+tags:   #imagens-históricas #mapas 
 akin: [[Historia\|Historia]]
 akin: [[Imagens historicas\|Imagens historicas]]
 akin: [[Historia pre-literaria ou pre-historia\|Historia pre-literaria ou pre-historia]] 

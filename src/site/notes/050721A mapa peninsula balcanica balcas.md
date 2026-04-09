@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/050721-a-mapa-peninsula-balcanica-balcas/","dg-note-properties":{}}
 ---
 
-tags:   #história #imagens #mapas
+tags:   #imagens-históricas #mapas
 parent: [[Imagens historicas\|Imagens historicas]]
 akin: [[Balcas\|Balcas]] 
 

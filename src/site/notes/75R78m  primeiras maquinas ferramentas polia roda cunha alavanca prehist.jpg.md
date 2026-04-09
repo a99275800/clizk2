@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/75-r78m-primeiras-maquinas-ferramentas-polia-roda-cunha-alavanca-prehist-jpg/","dg-note-properties":{}}
 ---
 
-tags:   #história #imagens #mapas 
+tags:   #imagens-históricas #mapas 
 akin: [[Historia\|Historia]]
 akin: [[Imagens historicas\|Imagens historicas]]
 akin: [[Historia pre-literaria ou pre-historia\|Historia pre-literaria ou pre-historia]] 

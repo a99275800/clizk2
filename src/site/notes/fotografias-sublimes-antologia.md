@@ -16,7 +16,7 @@ q.v. também [[ilustracoes-desenhos-sublimes-antologia\|ilustracoes-desenhos-sub
 8. aquele [chinês](https://photos.fife.usercontent.google.com/pw/AP1GczN2WX_kxyCKm45jV6IVXOE5SlOiLlW5VyBHMEB55wElxJkw8S-gUuz9xQ=w1080-h1920-s-no?authuser=0)
 9. [reflexos](https://photos.fife.usercontent.google.com/pw/AP1GczO7YLIImosbFOoV-avLYB0ZT15ubBVBBF4jwLheIOWJx0gU8vu3VzbYjQ=w771-h960-s-no?authuser=0)
 10. moleque brabo com marreta [no muro](https://photos.fife.usercontent.google.com/pw/AP1GczPaBE9_0yxvKKtjgWQ8zoRCn_6rdRgAhMXdUBhUhftslf76pBqFGTuioQ=w398-h600-s-no?authuser=0)
-11. policiais disfarçados [de mulher](https://photos.google.com/photo/AF1QipNKZW57C2copUD2QyF2GtF8v4UtxwRVN3AUVh_Y) [[Imagens historicas\|Imagens historicas]] #imagens #história 
+11. policiais disfarçados [de mulher](https://photos.google.com/photo/AF1QipNKZW57C2copUD2QyF2GtF8v4UtxwRVN3AUVh_Y) [[Imagens historicas\|Imagens historicas]] #imagens-históricas 
 12. padre bocejando [no confessionário](https://photos.fife.usercontent.google.com/pw/AP1GczMSQ0eqND-jbUMn_YT6cVuPBzu2m2TKnP-dGfxkjALigoFKCUBLtQQcjA=w650-h810-s-no?authuser=0)  #lol [[Pecados de deus\|Pecados de deus]] #moralismo-político #covardia-vícios #ennui #humor-religioso 
 13. Liberdade para um lado, paraíso para o outro, [placa de trânsito](https://photos.fife.usercontent.google.com/pw/AP1GczNnPCkhGI4ty0Zuf6LrgS818MwJ1sFFz8-LFDhtjFQmd9x-_9FJc-H8GQ=w684-h1232-s-no?authuser=0) #livre-arbítrio [[Liberdade\|Liberdade]] #liberdade [[Paraiso\|Paraiso]]
 14. [ozymandias](https://photos.fife.usercontent.google.com/pw/AP1GczOV6A-mhlEYUtxKtgnAH_tMhFPHBQb6iDy51Juaxy-AGJXs7Q3By4m-HQ=w450-h281-s-no?authuser=0)
