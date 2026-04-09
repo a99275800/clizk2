@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/260319-javier-cercas-literatura-sem-pedagogia/","dg-note-properties":{}}
+---
+
+Javier Cercas em entrevista ao Podcast de elpaislibros: "**La gran literatura es literatura sin causas**. Shakespeare no dice a la gente 'estos son los buenos y estos son los malos'. Shakespeare es capaz de que hasta nos caiga bien el mayor, el canalla mayor de la historia de la literatura, que es Ricardo III. **Los escritores no somos jueces, nos dedicamos a entender. Entender no significa justificar**. Entender significa darte los instrumentos para no volver a cometer los mismos errores". Pfs.: **==a literatura ajuda a entender se é corajosa e não cai na pedagogia nem na propaganda==**. **Nenhum grande escritor tentou nos ensinar o que é certo ou errado**. A literatura de hoje está virando pedagogia e propaganda. (via Instagram)
+
+Criado em 19-03-2026 — #pérolas-literatura #star #sobre-escrever #sofrelouco #arte [[Arte\|Arte]], [[Narratologia\|Narratologia]], [[sobre-escrever-oficio-de-escritor-index\|sobre-escrever-oficio-de-escritor-index]], [[Artista maldito sofrelouco\|Artista maldito sofrelouco]], #cultwars [[cultwars-guerras-culturais\|cultwars-guerras-culturais]], #bnw  [[Brave new world\|Brave new world]]

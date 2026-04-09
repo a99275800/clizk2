@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/240913-f-um-bilhao-de-obesos-em-todo-mundo-custos/","dg-note-properties":{}}
+---
+
+
+[Mais de um bilhão de pessoas vivem com obesidade em todo o mundo](https://www.diigo.com/portuguese/brasil-63005525), mostram estimativas globais publicadas pela revista científica The Lancet. Isso inclui cerca de 880 milhões de adultos e 159 milhões de crianças, segundo dados de 2022. O relatório, analisa evolução de 1990 a 2022, constatou que a taxa de obesidade quadruplicou entre crianças e adolescentes. Entretanto, para os adultos, a taxa mais do que duplicou nas mulheres e quase triplicou nos homens. Ao mesmo tempo, a proporção de adultos classificados como com baixo peso caiu 50%, mas os pesquisadores destacam que continua a ser um problema, especialmente entre as comunidades mais pobres. A rede de mais de 1.500 pesquisadores, em colaboração com a OMS, analisou medidas de altura e peso de cerca de 220 milhões de pessoas com cinco anos ou mais. Eles usaram uma medida chamada índice de massa corporal, o IMC. Outra pesquisa mostrou que, numa análise do impacto econômico da obesidade em 161 países, mantidas as tendências atuais, [em 2060 o Brasil será a sétima economia do mundo com maiores gastos relacionados à condição](https://www.diigo.com/portuguese/brasil-63005525). Segundo as projeções, divulgadas em um estudo publicado na revista científica BMJ Global Health, o percentual de pessoas obesas ou com sobrepeso no Brasil deverá chegar a 88,1% em 2060, resultando em um impacto econômico de US(cifrão) 218,2 bilhões (cerca de RS 1,3 trilhão).
+
+Mundasad, Smitha. “Combate à Obesidade: Mundo Tem 1 Bilhão de Obesos, Indica Estudo - BBC News Brasil.” BBC News Brasil. BBC News Brasil, March 2024. Disponível em: <https://www.bbc.com/portuguese/articles/c0v38dy8vygo>, acesso em 13 de setembro de 2024.
+      
+UIUI DII BTB OZ 240913F - #medicina [[Medicina\|Medicina]] #biologia [[Brave new world\|Brave new world]] #bnw #economia [[Economia\|Economia]] #doenças-bnw [[Doencas do bnw tdah TEA autismo depressao burnout demencia obesidade\|Doencas do bnw tdah TEA autismo depressao burnout demencia obesidade]]
