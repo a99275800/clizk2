@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/241001e-manuscrever-ajuda-no-aprendizado-e-memoria/","dg-note-properties":{}}
+---
+
+Why handwriting still matters in the digital age (...) From improving focus to strengthening cognitive pathways, handwriting offers neurological benefits that modern technology can’t replicate. (...) Statistically most studies on the relationship between handwriting and memory [including ones conducted in Japan, Norway and the United States] show that people are better at remembering things that they have written down, manually than on a computer (...) adults learning Arabic found that participants who learned letters by writing them down by hand were quicker to recognize them, had an easier time naming them compared with people who were asked to learn the new characters by typing or by just looking at them (...) our results can be partly explained by how handwriting activates different pathways to the same concept (...) Handwriting can activate more connections across these different dimensions compared with typing (...) Through surveys with 205 young adults in the U.S. and Europe, Baron found that many students report more focus, steadier concentration, and better memory when producing a text by holding a writing instrument rather than pressing keys on a keyboard, suggesting that our sense of touch plays a vital role in the way we absorb information
+
+Traverso, Vittoria. 2024. “Why Handwriting Still Matters in the Digital Age.” Science. September 26, 2024. Disponível em: <https://www.nationalgeographic.com/science/article/benefits-of-handwriting>, acesso em 01 de outubro de 2024.
+
+‌UIUI 241001e DII - #zettelkasten [[Projeto-Zetteltex-AKA-OZ-index\|Projeto-Zetteltex-AKA-OZ-index]] RQR1d 57L54h #educação [[Educacao\|Educacao]] RQR11e ex-46J30w educação misc div #estudo técnicas de RQR20c1 #bnw [[Brave new world\|Brave new world]] RQR17a ex-76U12m

@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/240626a-brasil-lidera-na-percepcao-popular-de-presenca-de-drogas-na-vizinhanca/","dg-note-properties":{}}
+---
+
+Brasil lidera entre países onde população relata presença do tráfico de drogas na vizinhança. O Estado de S. Paulo. 26 Jun 2024. (...) Seis em cada dez brasileiros (61%) relatam ter visto ou ouvido falar sobre crimes ligados ao tráfico de drogas em suas vizinhanças. O índice está 24 pontos acima da média identificada na pesquisa Global Advisor Crime, feita pela Ipsos em 31 países (...), e põe o Brasil na liderança. Chile (60%) e Colômbia (54%) vêm na sequência. Na outra ponta, Israel (15%), Polônia e Nova Zelândia (22%). O estudo, que verifica a percepção da população sobre crimes e aplicação da lei (...) (Article Name: Brasil lidera entre países onde população relata presença do tráfico de drogas na vizinhança Publication: O Estado de S. Paulo. Section: NEWS Start Page: A2 End Page: A2) (q.v.  - #drogas [[Drogas\|Drogas]] ex-231109j - #brasis [[Brasis\|Brasis]] RQR16a ex-12S65z - #crime [[Crime e violencia\|Crime e violencia]] RQR5L ex-231109i)
