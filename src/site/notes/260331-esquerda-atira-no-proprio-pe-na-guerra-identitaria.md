@@ -1,0 +1,12 @@
+---
+{"dg-publish":true,"permalink":"/260331-esquerda-atira-no-proprio-pe-na-guerra-identitaria/","dg-note-properties":{}}
+---
+
+![260331-esquerda-atira-no-proprio-pe-na-guerra-identitaria-1774998966233.webp](/img/user/assets/260331-esquerda-atira-no-proprio-pe-na-guerra-identitaria-1774998966233.webp)
+"**Guerra cultural**" é uma das categorias mais mobilizadas pela ciência política contemporânea. Pode ser definida como a **disputa em torno de valores morais e identidades nichadas, na qual atores organizados deslocam o eixo do conflito socioeconômico para a esfera simbólica e normativa.**(...)  Segundo pesquisa realizada pelo Real Time Big Data entre 17 e 18 de março, 82% da população teve conhecimento da nomeação de Erika Hilton para o comando da Comissão de Mulheres. Desse grupo, 84% discordam da condução dela ao posto, o que sugere um relativo consenso na sociedade que transcende polarização entre direita e esquerda. Aproximadamente 61% dos entrevistados concordam com as declarações de Ratinho. (...)  a situação da esquerda neste assunto é bastante delicada, o que não parece intimidar algumas lideranças do campo. (...)  Certo mesmo é que, em diversos países do mundo, **a radicalização da guerra cultural beneficia os partidos políticos de direita e alguns parlamentares da esquerda identitária, que precisam apenas do eleitorado de nicho para renovarem seus mandatos**. Como campo comprometido com o enfrentamento às estruturas da acumulação capitalista, a esquerda está acumulando prejuízos eleitorais com essa situação, **tornando-se cada vez mais objeto da desconfiança da população**.
+
+![260331-esquerda-atira-no-proprio-pe-na-guerra-identitaria-1774999109893.png](/img/user/assets/260331-esquerda-atira-no-proprio-pe-na-guerra-identitaria-1774999109893.png)
+
+PEREZ, R. Esquerda acumula derrotas em guerra cultural sobre o que significa ser mulher e misoginia. Disponível em: <https://www1.folha.uol.com.br/ilustrissima/2026/03/esquerda-acumula-derrotas-em-guerra-cultural-sobre-o-que-significa-ser-mulher-e-misoginia.shtml>. Acesso em: 31 mar. 2026.
+
+Criado em 31-03-2026 — #LGBT #bnw #brasis #política #direita-esquerda #cultwars [[cultwars-guerras-culturais\|cultwars-guerras-culturais]], [[direita-vs-esquerda-vs-direita\|direita-vs-esquerda-vs-direita]], [[Brasis\|Brasis]], [[Questao LGBTQ+\|Questao LGBTQ+]]

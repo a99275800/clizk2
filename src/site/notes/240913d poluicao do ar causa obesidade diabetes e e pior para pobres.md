@@ -1,0 +1,12 @@
+---
+{"dg-publish":true,"permalink":"/240913d-poluicao-do-ar-causa-obesidade-diabetes-e-e-pior-para-pobres/","dg-note-properties":{}}
+---
+
+    
+A cidade de São Paulo amanheceu nesta segunda-feira (9/9) com a pior qualidade de ar do mundo, de acordo com o ranking suíço [IQAir](https://www.iqair.com/), que opera uma plataforma com cerca de 120 grandes cidades com dados meteorológicos (...) Além do DF, os estados deGoiás, Bahia, Mato Grosso do Sul, Tocantins, Rondônia, Mato Grosso, Minas Gerais, Pará, Paraná, São Paulo e Maranhão podem ficar com a umidade abaixo de 20%
+O ar de 99% da população mundial não é saudável e excede os limites de [poluentes](https://www.diigo.com/portuguese/articles/c99eq79wnxlo) determinados pela Organização Mundial da Saúde. (...) Estima-se que o número de pessoas expostas a dias "não saudáveis" aumente em mais da metade até 2050. E os piores dias de [poluição do ar](https://www.diigo.com/portuguese/articles/crg8lg80xlwo) (os dias "perigosos" ou marrons, segundo a classificação da EPA) devem aumentar em 27%. (...) **Ganho de peso** - O mecanismo exato ainda é objeto de debates, mas os cientistas acreditam que as inflamações causadas pela poluição do ar também podem afetar o metabolismo do corpo. (...) 
+Pesquisas relacionaram a poluição suspensa no ar, como PM 2.5, à obesidade. (...) Existem cada vez mais evidências de que a poluição do ar pode estar relacionada ao **desenvolvimento de condições como o diabetes tipo 2**. (...) Uma análise profunda estimou que 20% do ônus global causado pelo diabetes tipo 2 podem ser atribuídos à exposição a PM2.5. (...) **O ar limpo não está disponível para todos** - Estima-se que os 716 milhões de pessoas com a renda mais baixa do mundo morem em áreas com níveis inseguros de poluição do ar.
+
+Gerretsen, Isabelle, Richard Gray, and Martha Henriques. “Cidades Do Brasil Têm Pior Ar Do Mundo: Os Prejuízos Ao Corpo E à Mente E Como Se Proteger - BBC News Brasil.” BBC News Brasil. BBC News Brasil, February 29, 2024. Disponível em: <https://www.bbc.com/portuguese/articles/c8vn304r633o>, acesso em 13 de setembro de 2024.  
+      
+‌UIUI DII BTB 240913d - #ambiente [[Meio-ambiente\|Meio-ambiente]] #desigualdade #medicina  [[Medicina\|Medicina]][[Exploracao pobreza miseria\|Exploracao pobreza miseria]] [[Desigualdade economica\|Desigualdade economica]]  #bnw [[Brave new world\|Brave new world]] #doenças-bnw [[Doencas do bnw tdah TEA autismo depressao burnout demencia obesidade\|Doencas do bnw tdah TEA autismo depressao burnout demencia obesidade]]

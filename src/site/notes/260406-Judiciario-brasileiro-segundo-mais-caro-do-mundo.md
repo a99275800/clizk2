@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/260406-judiciario-brasileiro-segundo-mais-caro-do-mundo/","dg-note-properties":{}}
+---
+
+![260406-Judiciario-brasileiro-segundo-mais-caro-do-mundo-1775494959806.webp](/img/user/assets/260406-Judiciario-brasileiro-segundo-mais-caro-do-mundo-1775494959806.webp)supersalários: **Justiça custou 1,5% do PIB em 2024**; estados driblam orçamento para custear folhas de pagamento. Brasil está em 2º lugar em lista dos que mais gastaram com o Judiciário no mundo. Maior despesa é com pessoal, e estados gastam 2,5 vezes mais que a União (...)  Os gastos com o sistema de Justiça no Brasil cresceram 15,8% entre 2023 e 2024 e alcançaram a marca de RS 181,5 bilhões. O valor equivale a 1,55% do PIB (Produto Interno Bruto) e a 3,38% dos gastos totais da União e dos governos estaduais e municipais nesse mesmo período (...) a subfunção "tribunais de justiça" abarca, além dos tribunais mencionados, órgãos que não integram o Poder Judiciário, como o Ministério Público, a Defensoria Pública da União e a AGU (Advocacia-Geral da União) (...) Os dados compilados pelo Tesouro são de 2024 (...) 77,9% das despesas destinadas a folhas de pagamento e 1,7%, a benefícios previdenciários e assistenciais. Ao todo, essas categorias somaram RS 144,3 bilhões no período (...) exemplo o estado de São Paulo, onde o Tribunal de Justiça custou mais do que outras 13 áreas somadas, incluindo assistência social e energia
+
+ABDO, J. P. Justiça custou 1,5% do PIB em 2024; estados driblam orçamento para custear folhas de pagamento. Disponível em: <https://www1.folha.uol.com.br/poder/2026/04/justica-custou-15-do-pib-em-2024-estados-driblam-orcamento-para-custear-folhas-de-pagamento.shtml>. Acesso em: 6 abr. 2026.
+
+Criado em 06-04-2026 — #judiciário #brasis #política #economia STF Supremo #ativismo-judicial 
