@@ -10,6 +10,8 @@
 
 ![decor-old-adds-1775410607766.webp](/img/user/assets/decor-old-adds-1775410607766.webp)como uma mulher elegante deve fumar #passado_estranho #machismo [[Feminismo\|Feminismo]]
 
+![decor-old-adds-1775739599417.webp](/img/user/assets/decor-old-adds-1775739599417.webp)
+
 ![decor-old-adds-1775689894747.webp](/img/user/assets/decor-old-adds-1775689894747.webp)magras não são atraentes #machismo [[Feminismo\|Feminismo]] #passado_estranho 
 
 ![decor-old-adds-1775692399392.webp](/img/user/assets/decor-old-adds-1775692399392.webp)

@@ -13,5 +13,7 @@
 ![decor-historia-do-celular-1774480445275.webp](/img/user/assets/decor-historia-do-celular-1774480445275.webp)
 ![decor-historia-do-celular-1775690735069.webp](/img/user/assets/decor-historia-do-celular-1775690735069.webp)
 
+![decor-historia-do-celular-1775737345300.webp](/img/user/assets/decor-historia-do-celular-1775737345300.webp)
+
 
 -- #decor01 #apagar  quando cansar disto

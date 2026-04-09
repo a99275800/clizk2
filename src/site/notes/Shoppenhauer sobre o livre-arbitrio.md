@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/shoppenhauer-sobre-o-livre-arbitrio/","dg-note-properties":{}}
+---
+
+  #gravar 
+  
+"Quando Schopenhauer diz que “**o mundo é representação**”, **não se baseia** na tradicional metáfora **do teatro, mas, paradoxalmente, na música, uma arte que não representa nada**. A música seria **um representante puro, sem representado**. Dizer que o mundo é representação pura é, pois, afirmar que tudo no mundo se desenvolve em um só plano, fictício como uma melodia; é negar de antemão a dualidade do signo, é pôr todos os seres no mesmo nível de ficção, sem substância. Por trás da representação, não há nada. (...) há algo por trás da representação, algo que, paradoxalmente, é irrepresentável: uma vontade única e cega. O mundo é vontade (...) uma vontade involuntária. (...) apesar das aparências, a vontade decide sem motivo. (...) essa falta de motivação é a essência da liberdade, porque, se a vontade obedecesse aos ditames da razão, todas as suas reações seriam previsíveis e ela deixaria de ser livre. (...) Nossos atos não são livres, uma vez que os move uma cega vontade única e transcendente, mas são livres à medida que não obedecem aos ditames da razão." (Borges babilônico: Uma enciclopédia, Destaque (amarelo) - Página 655) ([[Liberdade\|Liberdade]] [[Livre-arbitrio\|Livre-arbitrio]] [[Etica\|Etica]] #livre-arbítrio #sistemas-éticos [[Schopenhauer\|Schopenhauer]])

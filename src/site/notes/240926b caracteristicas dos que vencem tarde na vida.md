@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/240926b-caracteristicas-dos-que-vencem-tarde-na-vida/","dg-note-properties":{}}
+---
+
+3 subtle traits of successful late bloomers (...) At 45, Katharine Graham had little confidence, a history of dealing with emotional abuse, and zero business training. But, starting in 1963, she would go on to become one of the most successful business leaders of the 20th century as CEO of the Washington Post Company. In Second Act, Henry Oliver explores three key traits of successful late bloomers like Graham, and how you can be more active in cultivating them in yourself  (...) Persistence, resilience, and quiet ambition enable them to thrive when the right opportunity arises, even later in life (...) Ricky Gervais was 40 when the U.K. version of The Office premiered. Morgan Freeman scored his breakthrough role in his 50s.
+
+Oliver, Henry. 2024. “3 Subtle Traits of Successful Late Bloomers.” Big Think. September 24, 2024. Disponível em: <https://bigthink.com/smart-skills/3-traits-of-successful-late-bloomers>, acesso em 26 de setembro de 2024. 
+
+‌UIUI DII OZ 240926b - Zettel criado em 26/09/2024 - #psicologia [[Psicologia\|Psicologia]] #comoohomempensa[[Como o homem pensa vieses cognitivos\|Como o homem pensa vieses cognitivos]]] RQR18e2 ex-82D58g #inspirational [[inspirational-produtividade-autoajuda-habitos-self-improvement-TOT\|inspirational-produtividade-autoajuda-habitos-self-improvement-TOT]]  autoajuda[[inspirational-produtividade-autoajuda-habitos-self-improvement-TOT\|inspirational-produtividade-autoajuda-habitos-self-improvement-TOT]]] #inspirational [[inspirational-produtividade-autoajuda-habitos-self-improvement-TOT\|inspirational-produtividade-autoajuda-habitos-self-improvement-TOT]]  eficiência eficácia produtividade RQR20a #inspirational desenvolvimento pessoal tools of titans hábitos RQR20d RQR20d1 #virtudes  [[Virtudes\|Virtudes]] RQR6d12a  virtudes misc div
