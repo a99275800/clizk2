@@ -23,10 +23,15 @@ V. 7d8: o [[Liberalismo\|Liberalismo]] e o [[Comunismo\|Comunismo]]/socialismo t
 </div></div>
 
 2. Virgílio diz que "antes de Jove" os homens não trabalhavam e viviam em comunismo (K3 p5)
-3. ![Nova onda-1775394651544.webp](/img/user/assets/Nova%20onda-1775394651544.webp)
-4. Parafraseando Sartre, o comunismo é agora uma forma de humanismo ([[14S75a Entre Zizek e Peterson nao ha vencedor ou vencido nem combate 20191205204149\|14S75a Entre Zizek e Peterson nao ha vencedor ou vencido nem combate 20191205204149]])
 
-5. 
+3. O galo [comunista](https://photos.fife.usercontent.google.com/pw/AP1GczOewkqTeamRAqzNXL2UnKR_XJA6X84VgpIo3c_vp9M8JKEqIkitx9t_Sg=w720-h1280-s-no?authuser=0), #charges 
+
+4. ![Nova onda-1775394651544.webp](/img/user/assets/Nova%20onda-1775394651544.webp)
+   #VinhetasDeGibisAntigos 
+
+5. Parafraseando Sartre, o comunismo é agora uma forma de humanismo ([[14S75a Entre Zizek e Peterson nao ha vencedor ou vencido nem combate 20191205204149\|14S75a Entre Zizek e Peterson nao ha vencedor ou vencido nem combate 20191205204149]]) 
+
+6. 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/231108i-hobsbawm-sobre-o-socialismo-no-seculo-xix/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 

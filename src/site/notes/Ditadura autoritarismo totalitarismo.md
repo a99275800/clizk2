@@ -11,7 +11,7 @@ cvç: isto é RQR 6E12, tag #tirania;  cvç: as tags `ditatura` e `tirania` esta
 3. @EthicsInBricks: Historically, the most terrible things - war, genocide, and slavery - have resulted not from disobedience, but from obedience."  Howard Zinn crossref-7A08EWRGFQ073S
 
 4. ![Ditadura autoritarismo totalitarismo-1775342239021.webp](/img/user/assets/Ditadura%20autoritarismo%20totalitarismo-1775342239021.webp)
-   Obedeça, escravo! VinhetasDeGibisAntigos
+   Obedeça, escravo! #VinhetasDeGibisAntigos
 
 5. ![Ditadura autoritarismo totalitarismo-1774892385187.webp](/img/user/assets/Ditadura%20autoritarismo%20totalitarismo-1774892385187.webp)Já bati em professor com doutorado! O currículo dos capangas. #charges Dahmer #política #tirania opressão totalitarismo [[Policia policias repressao policial\|Policia policias repressao policial]] #polícia 
 
