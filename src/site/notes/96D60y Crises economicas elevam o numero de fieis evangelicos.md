@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/96-d60y-crises-economicas-elevam-o-numero-de-fieis-evangelicos/","dg-note-properties":{}}
+---
+
+tags: #religião #brasis #bnw #novaonda 
+parent: [[Neopentecostalismo\|Neopentecostalismo]]
+## 20191217204204 Crises econômicas elevam o número de fiéis evangélicos
+
+estudo dos economistas Francisco Costa, Angelo Marcantonio e Rudi Rocha (...)  brasileiros adversamente atingidos por crises se tornam mais suscetíveis à forte retórica religiosa de cura dos problemas pela fé apresentada pelas religiões evangélicas (...) o aumento do desemprego e a queda da renda nas áreas afetadas pelo choque econômico explicam um crescimento de cerca de 10% no número de adeptos a denominações como as pentecostais e neopentecostais, entre 1991 e 2000. Isso representou a adição de 1,3 milhão novos evangélicos apenas naquela década (...) conclusão foi que, para cada 1% de queda esperada da renda, a adesão ao pentecostalismo cresceu 0,8%, nos anos 1990 (...) o movimento de conversão foi acompanhado por uma mudança de preferência eleitoral que favoreceu políticos associados às religiões evangélicas (...) cada 1% de queda provável na renda associada à abertura comercial resultou em um aumento de 2% na parcela dos votos recebidos por esses políticos no longo prazo (...) É ali que o pequeno empreendedor constrói sua rede de contatos, que a mulher, deslocada do mercado de trabalho, se torna vendedora (...) A queda da renda reduz a capacidade de consumo mundano e torna o consumo etéreo oferecido pela religião mais atraente (FRAGA, E. Crises econômicas elevam o número de fiéis evangélicos. Folha de S.Paulo. Disponível em: <https://www1.folha.uol.com.br/mercado/2019/12/crises-economicas-elevam-o-numero-de-fieis-evangelicos.shtml>. Acesso em: 17 Dec. 2019.) ev 171219a #política #religião #neopentecostalismo #bolsonaro #novaonda #economia

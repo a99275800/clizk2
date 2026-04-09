@@ -11,6 +11,11 @@
 ![Loucura-1775342534890.webp](/img/user/assets/Loucura-1775342534890.webp)
    Você parece perfeitamente normal...
 
+![virtude-paciencia-1775696450962.webp](/img/user/assets/virtude-paciencia-1775696450962.webp)
+   Calma, gente! #charges #lol Laerte 2018 
+
+![Brasis-1775696272435.webp](/img/user/assets/Brasis-1775696272435.webp)Agora a Voz do Brasil... Socorro! #charges #lol #centrão #brasis #novaonda #bolsonaro #pessimismo Maurício Mônica
+
 
 ![whatsapp-as-melhores-figurinhas-para-whatsapp-1775690780410.webp](/img/user/assets/whatsapp-as-melhores-figurinhas-para-whatsapp-1775690780410.webp)cachorros muy locos
 

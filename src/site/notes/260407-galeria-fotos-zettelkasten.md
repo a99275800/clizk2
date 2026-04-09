@@ -28,4 +28,5 @@
 ![260407-galeria-fotos-zettelkasten-1775689759929.webp](/img/user/assets/260407-galeria-fotos-zettelkasten-1775689759929.webp)
 ![260407-galeria-fotos-zettelkasten-1775689760450.webp](/img/user/assets/260407-galeria-fotos-zettelkasten-1775689760450.webp)
 ![260407-galeria-fotos-zettelkasten-1775692731658.webp](/img/user/assets/260407-galeria-fotos-zettelkasten-1775692731658.webp)
+![260407-galeria-fotos-zettelkasten-1775696545416.webp](/img/user/assets/260407-galeria-fotos-zettelkasten-1775696545416.webp)
 

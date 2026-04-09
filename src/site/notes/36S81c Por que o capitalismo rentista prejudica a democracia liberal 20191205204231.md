@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/36-s81c-por-que-o-capitalismo-rentista-prejudica-a-democracia-liberal-20191205204231/","dg-note-properties":{}}
+---
+
+tags: #economia #discriminações #capitalismo #bnw #propostas 
+akin: [[Brave new world\|Brave new world]]
+akin: [[Desigualdade social e racial\|Desigualdade social e racial]]
+parent: [[Economia\|Economia]]
+
+## 20191205204231 Por que o capitalismo rentista prejudica a democracia liberal
+
+> WOLF, M. Por que o capitalismo rentista prejudica a democracia liberal. Trad. L. Gonçalves. Folha de S.Paulo. Disponível em: <https://www1.folha.uol.com.br/mercado/2019/09/por-que-o-capitalismo-rentista-prejudica-a-democracia-liberal.shtml>. Acesso em: 5 Dec. 2019. <!-- ev 051219g. -->  
+
+> v. [[19U79h Como reformar o capitalismo deturpado atual\|19U79h Como reformar o capitalismo deturpado atual]]
+
+Vivemos trindade de crescimento lento da produtividade, disparidade e choques financeiros (...) uma trindade profana de crescimento lento da produtividade, disparidade crescente e enormes choques financeiros (...) Jason Furman, da Universidade Harvard, e Peter Orszag, da Lazard Frères, observaram em um trabalho no ano passado: “De 1948 a 1973, a renda familiar mediana real nos EUA subiu 3% ao ano. Nesse ritmo (...) havia uma probabilidade de 96% de um filho ter uma renda maior que a de seus pais.  Desde 1973, a família mediana viu sua renda real crescer 0,4% ao ano (...) Com isso, 28% dos filhos têm renda menor que a de seus pais.” (...) Por que a economia não está dando resultados? A resposta, em grande parte, está na ascensão do capitalismo rentista. No caso, renda significa recompensas acima das necessárias para induzir o desejado fornecimento de bens, serviços, terra ou mão de obra. Capitalismo rentista significa uma economia na qual o mercado e o poder político permitem que privilegiados extraiam grande parte dessa renda de todos os outros. (...) A tecnologia também criou maior dependência de graduados e aumentou seus salários relativos, o que explica em parte o aumento da desigualdade (...) a parcela dos 1% mais ricos nos EUA em renda antes de descontar os impostos saltou de 11% em 1980 para 20% em 2014 (...) As finanças desempenham um papel fundamental, com várias dimensões. As finanças liberalizadas tendem a sofrer metástase, como um câncer. Assim, a capacidade do setor financeiro de gerar crédito e dinheiro financia suas próprias atividades, rendas e lucros (muitas vezes ilusórios) (...)  “rendas” —ganhos muito superiores aos necessários para atrair pessoas para o setor— representavam 30% a 50% do diferencial de remuneração entre profissionais de finanças e o restante do setor privado (...) declínio da concorrência. Furman e Orszag dizem que há evidências do aumento da concentração de mercado nos EUA, menor taxa de entrada de novas empresas e menor participação de jovens na economia (...) complacência com o poder de monopólio, desde que os preços ficassem baixos (...) aspecto vergonhoso da busca por renda é a evasão fiscal radical (...) erosão da base e transferência de lucros(...) localização da propriedade intelectual em paraísos fiscais (...) corporações americanas relatam sete vezes mais lucros em pequenos paraísos fiscais do que em seis grandes economias. Isso é ridículo (...) 
