@@ -11,6 +11,9 @@
 ![Loucura-1775342534890.webp](/img/user/assets/Loucura-1775342534890.webp)
    Você parece perfeitamente normal...
 
+![Brave new world-1775342485380.webp](/img/user/assets/Brave%20new%20world-1775342485380.webp)
+   Terra, o hospício do Universo! #VinhetasDeGibisAntigos 
+
 ![virtude-paciencia-1775696450962.webp](/img/user/assets/virtude-paciencia-1775696450962.webp)
    Calma, gente! #charges #lol Laerte 2018 
 

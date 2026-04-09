@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/260409-projeto-controle-mental-cia-armou-tentativa-assassinato-trump/","dg-note-properties":{}}
 ---
 
+![260409-projeto-controle-mental-CIA-armou-tentativa-assassinato-Trump-1775773985973.webp](/img/user/assets/260409-projeto-controle-mental-CIA-armou-tentativa-assassinato-Trump-1775773985973.webp)
 **Meu comentário**: o caso está aqui não porque pareça plausível mas para mostrar que congressistas malucos e aberrantes (e jornais estapafúdios) não são privilégio do Brasil.
 
 **Resumo Gemini**: O congressista Tim Burchett alega que Thomas Crooks, autor do atentado contra Donald Trump, foi "programado" pela CIA através de técnicas modernas de controle mental. A teoria sugere uma versão atual do projeto MKUltra, onde agências de inteligência manipulariam jovens vulneráveis via internet para agirem como bodes expiatórios do "Estado Profundo". Burchett afirma que falhas de segurança em Butler foram planejadas, embora não tenha apresentado evidências diretas que comprovem tais acusações. Em contraste, o FBI mantém a conclusão de que Crooks agiu sozinho, sem vínculos com conspirações governamentais ou direções estrangeiras. O texto cita precedentes históricos, como o gângster Whitey Bulger, que foi submetido a experimentos reais da CIA durante a Guerra Fria. Atualmente, investigadores analisam o rastro digital do atirador em redes sociais para entender suas motivações, sem confirmar as teorias de manipulação psicológica citadas.

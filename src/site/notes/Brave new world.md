@@ -15,6 +15,7 @@ cvç: RQR 17a e tag #bnw ; chamava "76U12m tema- brave new world 20180805214146 
    Como ratos, embarcando no metrô - urbanização vida moderna metrópoles mundo do trabalho #charges 
 
 4. ![Brave new world-1775342485380.webp](/img/user/assets/Brave%20new%20world-1775342485380.webp)
+   Terra, o hospício do Universo! #VinhetasDeGibisAntigos 
 
  5. ![Doencas do bnw tdah TEA autismo depressao burnout demencia obesidade-1775135216599.webp](/img/user/assets/Doencas%20do%20bnw%20tdah%20TEA%20autismo%20depressao%20burnout%20demencia%20obesidade-1775135216599.webp)Isto é tão bom que nem sei onde arquivar. Seria o amor ofensivo às **minorias éticas**? Muita emissão de **humanismo sem nota**. RicardoCoimbra #charges #lol #hipocrisia-vícios #redsoc #influencer #mimimi #gerações #bnw #brasis #cultwars [[cultwars-guerras-culturais\|cultwars-guerras-culturais]], [[Mimimi o planeta dos coitados civilizacao de retardados\|Mimimi o planeta dos coitados civilizacao de retardados]], [[vicios hipocrisia falsidade fingimento RQR 6d13M\|vicios hipocrisia falsidade fingimento RQR 6d13M]], [[REDSOC redes sociais\|REDSOC redes sociais]] #star 
 
