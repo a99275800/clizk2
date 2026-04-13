@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/260221-maquinas-de-escrever-voltam-a-moda/","dg-note-properties":{}}
+---
+
+Máquina de escrever renasce com modelos de até RS 15 mil; Equipamento foi redescoberto por gerações mais jovens com pandemia e clipe de Taylor Swift; Restaurador Ronaldo de Oliveira segue em rua do centro de São Paulo que já foi dominada por artefato. (...) Uma contribuição considerável para que uma nova geração soubesse o que é e se interessasse pela máquina de escrever veio de Taylor Swift. A cantora norte-americana, fenômeno pop, usou um modelo vintage Royal 10 no vídeo da sua música "Fortnight", single do seu álbum "The Tortured Poets Department", de 2024. O impacto nas vendas da Philly Typewriter, uma das principais fabricantes mundiais, fez com que um dos proprietários da empresa, Bill Rhoda, instalasse em lojas placas com a frase "junte-se ao departamento dos poetas torturados". A maior procura, segundo ele, é de pessoas com menos de 30 anos. ([Folha](https://www1.folha.uol.com.br/mercado/2026/02/maquina-de-escrever-renasce-com-modelos-de-ate-r-15-mil-veja-video.shtml))
+
+Criado em 21-02-2026 — #nostalgia [[Nostalgia e colecionismo\|Nostalgia e colecionismo]] #gerações #genY [[Geracoes diferencas geracionais genZ genY genX genA\|Geracoes diferencas geracionais genZ genY genX genA]] 

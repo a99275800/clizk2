@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/231122-c-o-ecce-homo-suecado-de-dona-cecilia-e-arte/","dg-note-properties":{}}
+---
+
+## 231122C O 'Ecce Homo' suecado de dona Cecília é arte?
+
+![Ecce Homo](https://ichef.bbci.co.uk/news/800/cpsprodpb/238A/production/_126289090_eccehomodois.jpg)
+
+10 anos do 'Ecce Homo' de dona Cecilia Giménez: de desastre a meme que mudou uma cidade (...) a imagem se transformou em uma série de produtos de merchandising, como chaveiros, camisetas e imãs de geladeira, e até em uma ópera composta pelo norte-americano Andrew Flack em 2015 (...) Dez anos depois, Borja celebra sem nenhum constrangimento o Ecce Homo transformado (...) O prefeito de Borja conta (...) "Turisticamente somos um produto mundial. Recebemos visitantes de 110 países do mundo", (...) o fluxo fica entre 10 mil e 11 mil visitantes anualmente (...) Afinal, dona Cecilia fez arte? (...) Cecilia Giménez criou algo totalmente diferente, com muito mais impacto do que a pintura original, que não seria esquecida porque nem sequer foi lembrada antes", diz Nathalia Lavigne (...) O caso do Ecce Homo refeito, segundo Lavigne, se relaciona a uma questão contemporânea: agora pergunta-se menos o que é a arte e mais onde é arte. (...) O cineasta espanhol Álex de la Iglesia (...) declarou no Twitter que a imagem é um "ícone de nossa maneira de ver o mundo. Significa muito". (...) O crítico de arte americano Ben Davis chegou a colocar a restauração entre as 100 peças que definiram a década de 2010 ("**uma amada obra-prima de surrealismo não-intencional**"). (...) Para Rob Horning, editor na revista eletrônica sobre tecnologia e cultura de internet Real Life, o meme na verdade "deu chance para **satirizar simultaneamente a piedade da religião e a pseudo-religião da arte**". (...) Horning observa que **o sucesso das visitas turísticas a Borja também mostra uma curiosa relação mundo offline x mundo online: é como se a parede em que está o Ecce Homo de dona Cecilia dissesse para o espectador: "Eis a internet"**. (...) a principal lição do meme, diz o jornalista, é que a internet "se aproveita dos fenômenos e os inverte". O meme, ao final, "deu a volta".
+
+SUZUKI, Shin. 2022. “O Desastre Artístico Que Virou Meme E Mudou Uma Cidade: 10 Anos Do ‘Ecce Homo’ de Dona Cecilia Giménez.” BBC News Brasil. August 15, 2022. Disponível em: <https://www.bbc.com/portuguese/internacional-62500921>, acesso em 22 de novembro de 2023. 
+
+22/11/2023 13h09; links: [[Arte\|Arte]], [[Brave new world\|Brave new world]], [[REDSOC redes sociais\|REDSOC redes sociais]], [[Como o homem pensa vieses cognitivos\|Como o homem pensa vieses cognitivos]]; tags:  #arte #redsoc #wtf #mimimi #genZ

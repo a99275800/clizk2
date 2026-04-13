@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/260224-pcc-40-mil-membros-bilhoes-e-organograma-empresarial/","dg-note-properties":{}}
+---
+
+Novo organograma feito pela Polícia Civil revela estrutura empresarial do PCC, com setores de 'compliance' e rede social (...)  e outro responsável pelos jurados de morte. (...)  arquitetura do PCC, que cada vez mais passa a agir como se fosse uma empresa voltada ao crime: (...)  Associados: executivos do crime que não são “batizados”, mas tocam negócios para a facção, especialmente finanças e lavagem (...)  Setor do Raio-X: atua como uma espécie de compliance, corregedoria e auditoria, monitora conduta, movimentações e cumprimento de ordens. (...)  Sintonia da Internet e Redes Sociais: coordena comunicações digitais, padroniza linguagem ideológica, monitora publicações e dá suporte técnico. Ideia é garantir segurança e discrição nas trocas de mensagens entre membros por aplicativos, redes sociais e e-mails criptografados. (...)  Decretados: ex-líderes expulsos, atualmente sob ameaça de morte da própria facção. (...)  O Ministério Público de São Paulo (MP-SP) também tem o seu organograma da facção, mas com a indicação de ao menos 40 mil membros. (...)  Tanto a polícia quanto o MP monitoram a atuação da facção em 28 países, além do Brasil, onde a organização expandiu tanto sua logística de drogas, e se infiltrou na economia formal, atuando com lavagem de dinheiro em postos de combustíveis e fundos de investimento. (...)  houve um salto expressivo nas finanças da facção: o que antes movimentava valores na casa das centenas de milhares de reais passou a girar em dezenas de bilhões.
+
+LEITE, Isabela ; TOMAZ, Kleber. **Novo organograma feito pela Polícia Civil revela estrutura empresarial**. G1. Disponível em: <https://g1.globo.com/sp/sao-paulo/noticia/2026/02/24/novo-organograma-feito-pela-policia-civil-revela-estrutura-empresarial-do-pcc-com-setores-de-compliance-e-rede-social.ghtml>. Acesso em: 24 fev. 2026.
+
+Criado em 24-02-2026 — #crime #brasis #bnw #drogas [[Drogas\|Drogas]], [[Crime e violencia\|Crime e violencia]], [[Brasis\|Brasis]], [[Brave new world\|Brave new world]]. 
+‌

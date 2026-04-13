@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/260331-scotus-inconstitucional-proibir-cura-gay/","dg-note-properties":{}}
+---
+
+![260331-SCOTUS-inconstitucional-proibir-cura-gay-1774998389794.webp](/img/user/assets/260331-SCOTUS-inconstitucional-proibir-cura-gay-1774998389794.webp)
+Resumo CoPilot: A Suprema Corte dos EUA decidiu em 31 de março de 2026, por 8 votos a 1, contra a lei do Colorado que proibia a chamada “terapia de conversão” para jovens LGBTQ+, entendendo que a medida levantava questões de liberdade de expressão e deveria ser reavaliada por instâncias inferiores; o caso foi movido pela conselheira cristã Kaley Chiles, apoiada pela administração republicana de Donald Trump, que alegava que a lei impedia aconselhamento voluntário baseado na fé, enquanto o Colorado defendia que sua norma não proibia conversas sobre identidade de gênero ou orientação sexual, mas apenas práticas destinadas a “converter” pessoas LGBTQ+, consideradas cientificamente desacreditadas e prejudiciais; a decisão pode fragilizar leis semelhantes em outros estados, já que muitas seguem o mesmo modelo, e insere-se em um contexto mais amplo de decisões recentes da Corte que favorecem alegações de discriminação religiosa, ao mesmo tempo em que adotam postura mais cética em relação a direitos LGBTQ+, gerando tensão nacional entre liberdade religiosa e políticas de proteção da comunidade.  
+
+GUARDIAN STAFF REPORTER. US supreme court rules against Colorado ban on “conversion therapy”. Disponível em: <https://www.theguardian.com/us-news/2026/mar/31/supreme-court-colorado-ban-conversion-therapy-ruling>. Acesso em: 31 mar. 2026.
+
+Criado em 31-03-2026 — #LGBT #bnw #novaonda #cultwars #usa #direita-esquerda #psicologia [[Questao LGBTQ+\|Questao LGBTQ+]], [[Nova onda\|Nova onda]], [[cultwars-guerras-culturais\|cultwars-guerras-culturais]]

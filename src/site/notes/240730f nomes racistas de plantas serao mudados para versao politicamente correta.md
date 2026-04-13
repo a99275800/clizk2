@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/240730f-nomes-racistas-de-plantas-serao-mudados-para-versao-politicamente-correta/","dg-note-properties":{}}
+---
+
+
+Botânicos decidem pela 1ª vez tirar termo racista de espécies (...) Pesquisadores aprovam mudança em nome científico de centenas de plantas para remover palavra usada como insulto na África do Sul. Comitê vai avaliar novas designações a partir de 2026 (...) Uma votação realizada em Madri por botânicos de vários países decidiu, pela primeira vez, que um termo racista seja retirado do nome científico de espécies de fungos, plantas e algas. A medida se refere a uma palavra usada como insulto contra pessoas negras na África do Sul. (...) O grupo também aprovou que, a partir de 2026, um comitê terá o poder de avaliar propostas de novos nomes que possam ser considerados ofensivos. 218 espécies de plantas serão afetadas pela mudança, além de 70 nomes científicos de fungos e 13 de algas (...) O termo em questão é “caffra” e outros derivados do prefixo “caf”, que tem origem numa palavra árabe para “infiel” e foi usado ao longo do tempo para se referir a uma região do sul do continente africano. Durante o Apartheid na África do Sul, o termo ganhou uma forte conotação racista (...) A medida aprovada determina que um comitê analise eventuais questões éticas em nomes de novas espécies propostos a partir de janeiro de 2026 (...) Em 2023, a Comissão Internacional de Nomenclatura Zoológica anunciou que não consideraria mudar o nome de espécies como o besouro Anophthalmus hitleri, nomeado em homenagem a Adolf Hitler
+
+Da Redação. "Nexo Jornal." Nexo Jornal. Nexo Jornal, 2024. Disponível em: <https://www.nexojornal.com.br/extra/2024/07/20/nome-cientifico-racista-mudanca-botanica>, acesso em 30 de julho de 2024. uiui 300724f
+
+#cultwars [[cultwars-guerras-culturais\|cultwars-guerras-culturais]] ideologias narrativas wokeísmo politicamente correto RQR17L  -  #bnw [[Brave new world\|Brave new world]] RQR17a ex-76U12m #biologia  [[Biologia\|Biologia]] - Zettel criado em 30/07/2024

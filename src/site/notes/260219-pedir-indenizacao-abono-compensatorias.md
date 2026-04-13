@@ -1,0 +1,12 @@
+---
+{"dg-publish":true,"permalink":"/260219-pedir-indenizacao-abono-compensatorias/","dg-note-properties":{}}
+---
+
+
+- [x] pedir essa indenização @due(2026-02-24) #work 
+
+24 de fevereiro de 2026: A Tarefa Solicitar Abono foi concluída. 2026.00053686. É de dias de plantão
+
+Mensagem De: (dzs) Denise Aparecida de Menezes Lotação: GABINETE DO PRESIDENTE - GP - Divisão Administrativa Enviado: 18/02/2026 18:17 Tipo: Institucional Prioridade: Normal Assunto: Ref. à indenização de até 10 (dez) dias compensatórios não usufruídos - 23 a 27 de fevereiro de 2026. Excelentíssimas Senhoras Magistradas e Excelentíssimos Senhores Magistrados: Cumprindo **deter§§minação** da Excelentíssima Senhora Presidente do Tribunal de Justiça do Estado do Paraná, Desembargadora LIDIA MAEJIMA, encaminho o Ofício n° 12689977, para a devida ciência dos seus termos: Senhor(a) Magistrado(a), Em atenção ao §5º do art. 75 da Resolução TJPR nº 186/2017-OE, com as alterações introduzidas pela Resolução nº 237/2019-OE, informo a Vossa Excelência que, **no período de 23 a 27 de fevereiro de 2026, estará disponível no Sistema Hércules o requerimento para indenização de até 10 (dez) dias compensatórios não usufruídos por absoluta necessidade do serviço**. O pagamento será realizado conforme a disponibilidade orçamentária e financeira do Tribunal de Justiça. Para efetivar o protocolo de indenização, o procedimento deverá ser realizado em duas etapas: 1ª Etapa – Solicitação de afastamento: O(a) magistrado(a) deverá registrar o requerimento de afastamento no Sistema Hércules, acessando o menu Magistratura > Afastamento > Compensação de Plantão, e indicar no campo “Observações” que o pedido tem como finalidade a indenização. 2ª Etapa – Protocolo após indeferimento: Após o indeferimento automático do pedido de afastamento, o(a) magistrado(a) deverá realizar o protocolo de requerimento de indenização conforme orientações disponíveis no sistema. Em caso de dúvidas, entre em contato pelos telefones (41) 3200-3416, (41) 3200-3417 ou (41) 3200-2110, ou pelo Microsoft Teams com: Laura Cristina de Oliveira, Duane do Carmo Moser Cury, Bruna Roberta de Borba. Respeitosamente. Denise Menezes Auxiliar Judiciário ​Assessoria Administrativa da Presidência
+
+#work #apagar quando receber (março 2025?) 

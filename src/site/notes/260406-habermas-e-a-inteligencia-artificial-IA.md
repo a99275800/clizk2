@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/260406-habermas-e-a-inteligencia-artificial-ia/","dg-note-properties":{}}
+---
+
+Para Habermas, a modernidade poderia se fundar sobre a linguagem: a capacidade humana de argumentar, aprender e mudar de ideia em face a argumentos racionais. Essa seria **a ação comunicativa, que seria a base do que ele chamava de "mundo da vida**", o lugar onde as conversas acontecem e onde valores, normas, gostos e verdades são compartilhados por todos intersubjetivamente. É o território da cultura, das pessoas e da sociedade. (...) o mundo da vida estava sendo colonizado. Seus **colonizadores são o dinheiro e o poder**, que ele chamava de "imperativos deslinguistizados". Eles n**ão precisam da linguagem para atuar** (...) "comunicação instrumental estratégica". São as falas que **buscam promover objetivos estratégicos (e ocultos**), que não estão expressos na própria frase. (...) **A IA** é uma ferramenta de linguagem extremamente capaz, que passa a ocupar o mundo da vida de forma abrangente (...) acopla-se diretamente aos imperativos deslinguistizados como o dinheiro e o poder. (...) problema central é que **as frases geradas por IA** são 100% comunicações instrumentais-estratégicas. Elas s**empre terão objetivos e alinhamentos ocultos**, que não enxergamos 
+
+LEMOS, R. Habermas e a inteligência artificial. Folha, 5 abr. 2026. Disponível em: <https://www1.folha.uol.com.br/colunas/ronaldolemos/2026/04/habermas-e-a-inteligencia-artificial.shtml>. Acesso em: 6 abr. 2026.
+
+Criado em 06-04-2026 — #iA #bnw #ética #condição-humana #política #argumentação #democracia #capitalismo #poder [[Habermas\|Habermas]] [[Linguagem\|Linguagem]] #linguagem 

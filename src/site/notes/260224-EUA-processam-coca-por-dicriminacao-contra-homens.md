@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/260224-eua-processam-coca-por-dicriminacao-contra-homens/","dg-note-properties":{}}
+---
+
+**EUA processam engarrafadora da Coca-Cola por evento de networking exclusivo para mulheres** (...) Uma agência dos Estados Unidos processou uma engarrafadora da Coca-Cola por discriminação devido a um evento de networking que a empresa realizou para funcionárias em um resort com cassino. A ação ocorre em meio à repressão do governo Trump às iniciativas corporativas de diversidade. (...) A EEOC (Comissão de Igualdade de Oportunidades de Emprego, na sigla em inglês) afirmou que a empresa Coca-Cola Beverages Northeast **violou leis de direitos civis ao não convidar funcionários homens para o evento** de 2024 em Connecticut, que, segundo a agência, incluiu "uma recepção, atividades de integração de equipe e atividades recreativas".  
+
+FOLHA.UOL.COM.BR. **EUA processam engarrafadora da Coca-Cola por evento de networking exclusivo para mulheres**. Disponível em: <https://www1.folha.uol.com.br/mercado/2026/02/eua-processam-engarrafadora-da-coca-cola-por-evento-de-networking-exclusivo-para-mulheres.shtml>. Acesso em: 24 fev. 2026.
+
+Criado em 24-02-2026 — #machismo #discriminações #cultwars #bnw #novaonda [[Nova onda\|Nova onda]], [[Feminismo\|Feminismo]], [[cultwars-guerras-culturais\|cultwars-guerras-culturais]], [[Brave new world\|Brave new world]], [[Discriminacoes desigualdade diferencas miscdiv e desambiguacao\|Discriminacoes desigualdade diferencas miscdiv e desambiguacao]]. Q.v. [[240702b mostra de arte censurada por discriminar homens movida para banheiro feminino\|240702b mostra de arte censurada por discriminar homens movida para banheiro feminino]].
