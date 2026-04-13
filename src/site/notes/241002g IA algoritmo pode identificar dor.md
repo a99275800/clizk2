@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/241002g-ia-algoritmo-pode-identificar-dor/","dg-note-properties":{}}
+---
+
+O aprendizado de máquina pode ajudar [a eliminar algumas das suposições do tratamento da dor crônica](https://nature.us17.list-manage.com/track/click?u=2c6057c528fdc6f73fa196d9d&id=06b8adf17f&e=d812ece371) . Algoritmos podem auxiliar em um processo chamado fenotipagem sensorial, no qual a sensibilidade das pessoas a estímulos como picadas de alfinete, calor e vibração é analisada e agrupada em subtipos. Isso tem se mostrado promissor para ajudar a orientar os médicos para o tratamento certo. Pesquisadores da dor também estão usando algoritmos de IA para identificar os padrões de dor na atividade cerebral — padrões que geralmente são impossíveis de ver devido à forma como a sensação se manifesta de forma diferente em pessoas diferentes. "O aprendizado de máquina básico está captando sinais que os métodos clássicos e o olho humano não são capazes de detectar", diz o pesquisador da dor Carl Saab, coautor dessa análise.
+
+(email na pasta "atrasadas") - #IA  [[IA-inteligencia-artificial-IA-ou-AI-index\|IA-inteligencia-artificial-IA-ou-AI-index]] AI (mix algoritmos ?) #bnw [[Brave new world\|Brave new world]] RQR17a ex-76U12m  #biotech [[Bioetica\|Bioetica]] ciência do BNW RQR17g #ética #ciência #bnw #biologia #medicina  [[Medicina\|Medicina]] - 2024-10-02 13:08 - #iA [[Algoritmos\|Algoritmos]] RQR17E e big data + RQR17E1 automação, robótica e consequências econômicas + RQR17F2 hackers;

@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/mircea-eliade-historia-das-crencas/","dg-note-properties":{}}
+---
+
+Pressuposto: unidade fundamental dos fenômenos religiosos. (...)  Os mitos da criação referem-se ao [[Sacrificio\|Sacrificio]], essa [[Violencia\|Violencia]] primordial que tem o poder de animar o mundo. (...)  Os mitos tratam do sofrimento imposto aos homens pela história. A questão do mal é colocada não no plano filosófico da condição humana [[Condicao ou tragedia ou comedia humana\|Condicao ou tragedia ou comedia humana]]: trata-se de combater o mal inscrito na própria atividade humana [[Mal\|Mal]]. Cada [[Heroi\|Heroi]] repete o gesto arquetípico da luta primeira entre o bem e o mal. (...) Soteriologia: parte da teologia que trata da salvação [[Salvacao transcendencia consolo\|Salvacao transcendencia consolo]]. (Oposto a escatologia?) (...)  A ruptura do [[Círculo\|Círculo]] mágico do eterno retorno promovida pela invenção da história é a fonte de todas as infelicidades humanas. (...)  As análises que explicam o religioso pela psicologia, pela sociologia ou antropologia reduzem os fatos religiosos a fenômenos de outra ordem. (...)  Fim: a possibilidade de transformar a condição humana pela anulação da história.
+
+Criado em 19/04/2013 09:42 — Última revisão em 20-02-2026 — tags:  #filosofia #religião #mitologia akin: [[Religiao\|Religiao]] akin: [[Mitologia\|Mitologia]] parent: [[Filosofia\|Filosofia]]. Fonte: ignoro... De onde tirei isso?
