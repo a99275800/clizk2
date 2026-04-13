@@ -24,7 +24,7 @@ A filosofia é produto da atividade intelectual do homem. Não existe como ativi
 
 A história versa não só sobre as idéias, mas sobre seus autores (sobre a permanência dessas idéias (e autores) ao longo do tempo). 
 
-'Origem da filosofia na grécia'. Séc. VII a.C., nas colônias jônias da Ásia Menor (Mileto). Só se conhecem por fontes indiretas: [[Democrito\|Democrito]] (1º a estudar filosofia antiga, no séc. IV a.C.), [[Platao\|Platao]] (sobre [[Socrates\|Socrates]] e [[Sofistas\|Sofistas]]), [[Aristoteles\|Aristoteles]] (1º historiador da filosofia), [[Cícero\|Cícero]] (sobre o epicurismo), [[Seneca_\|Seneca_]] (sobre o estoicismo).
+'Origem da filosofia na grécia'. Séc. VII a.C., nas colônias jônias da Ásia Menor (Mileto). Só se conhecem por fontes indiretas: [[Democrito\|Democrito]] (1º a estudar filosofia antiga, no séc. IV a.C.), [[Platao\|Platao]] (sobre [[Socrates\|Socrates]] e [[Sofistas\|Sofistas]]), [[Aristoteles\|Aristoteles]] (1º historiador da filosofia), [[Cícero\|Cícero]] (sobre o epicurismo), [[Seneca\|Seneca]] (sobre o estoicismo).
 
 'Causas da aparição da filosofia na grécia'. Contexto histórico: a) contato com o oriente próximo, b) ambiente espiritualista da época ([[Orfismo\|Orfismo]]), c) influência da poesia grega ([[Hesiodo\|Hesiodo]] e [[Homero\|Homero]]), indiciando um espírito maduro para iniciar a especulação filosófica, d) gênio grego.
 

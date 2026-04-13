@@ -222,3 +222,27 @@ Antes de rodar o comando de 8 GB, faça uma limpeza rápida nos temporários par
 Na Vercel, você está limitado ao que eles oferecem no plano gratuito. No seu Mac, você é o "Juiz" dos recursos. Se precisar de 12 GB, você pode alocar. Uma vez que o comando completar, a pasta `dist` aparecerá e seu site estará pronto para ser movido para qualquer servidor como um arquivo estático puro.
 
 Tente o comando com **8192** e me diga se ele conseguiu atravessar a barreira dos 3.000 arquivos.
+
+## como enganar a vercel
+
+### 1. É possível subir apenas a pasta `dist` para a Vercel?
+
+**Sim, é possível.** Existem dois caminhos principais para fazer isso sem que a Vercel tente reconstruir o site (e falhe por memória):
+
+- **Via Vercel CLI (Recomendado):** Esta é a forma mais direta. Em vez de conectar o GitHub, você instala a ferramenta de linha de comando (`npm i -g vercel`) e, dentro da sua pasta `dist`, executa:
+    
+    Bash
+    
+    ```
+    vercel --prod
+    ```
+    
+    A Vercel perguntará se você deseja configurar um novo projeto. Ela detectará que são arquivos estáticos e fará o upload direto, sem rodar nenhum script de build nos servidores deles.
+    
+- **Via Dashboard (Configuração "Other"):** Se você preferir manter o Git conectado, você pode ir em **Settings > Build & Deployment** na Vercel e:
+    
+    1. Mudar o **Framework Preset** para "Other".
+        
+    2. Habilitar o "Override" no **Build Command** e deixá-lo **vazio**.
+        
+    3. Definir o **Output Directory** como o local onde seus arquivos prontos estão (ou deixá-lo vazio se você estiver subindo apenas o conteúdo da `dist`). Isso diz à Vercel: "não tente instalar nada, apenas pegue o que eu te enviei e sirva como site".

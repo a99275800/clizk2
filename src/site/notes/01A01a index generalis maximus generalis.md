@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-a01a-index-generalis-maximus-generalis/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/01-a01a-index-generalis-maximus-generalis/","dg-note-properties":{}}
 ---
 
 Este é o _index generalis_ do **projeto Zettelkasten**, iniciado em 05/08/2018 20:49. Não **deverá haver nenhum** vb. superior a este. E os portais serão listados aqui (*se houve*r. Não temos mais um listão tipo índice de capítulos e temas, como havia na Encyclopaedia, porque aqui a ideia é navegar por tags).

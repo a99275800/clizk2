@@ -20,7 +20,7 @@ Período antigo. A doutrina ética, como forma de ajudar o indivíduo a aceitar 
 
 Período helenístico-romano. Com assimilação de elementos ecléticos e adaptações adequadas, o estoicismo adquiriu uma nova função, como sistema ético sobre o qual a república romana pretendia assentar-se. Destacaram-se no período Panécio de Rodes, Posidônio de Apaméia e [[Cícero\|Cícero]]. O homem político, segundo Cícero, só atinge a virtude suprema se sua atuação estiver voltada para o bem de seu povo.
 
-Período imperial romano. O império oferecia a pax romana, mas, ao mesmo tempo, o fastio e a dissolução dos princípios morais da sociedade. Musônio Rufo, [[Seneca_\|Seneca_]], Epicteto e [[Marco Aurelio\|Marco Aurelio]] criaram os alicerces teóricos que deveriam dignificar o poder imperial. Alguns preceitos de sua poderosa doutrina moral foram adotados pela igreja cristã.
+Período imperial romano. O império oferecia a pax romana, mas, ao mesmo tempo, o fastio e a dissolução dos princípios morais da sociedade. Musônio Rufo, [[Seneca\|Seneca]], Epicteto e [[Marco Aurelio\|Marco Aurelio]] criaram os alicerces teóricos que deveriam dignificar o poder imperial. Alguns preceitos de sua poderosa doutrina moral foram adotados pela igreja cristã.
 
 f.: Barsa CD v. 1.11 (1995). Baseada na Nova Enciclopédia Barsa. São Paulo: Encyclopaedia Britannica do Brasil Publicações (1 CD)
 [[:page: Myrodape\|:page: Myrodape]]

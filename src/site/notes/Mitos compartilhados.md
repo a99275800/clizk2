@@ -5,7 +5,7 @@
 cvç: #indexes #rQR #mitos-compartilhados — Conforme a ideia de [[7d5a4 Harari Sapiens R3 271021a\|7d5a4 Harari Sapiens R3 271021a]] (e.e. crossref hsa78h4ºaihfaw874yo94); pode mixar com [[imaginacao-imaginario-inconsciente-coletivo-index\|imaginacao-imaginario-inconsciente-coletivo-index]], [[Ideologia\|Ideologia]]; v. também:
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/durant-nossa-heranca-oriental-volume-1-r1/#hksd6c" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -25,7 +25,7 @@ A razão conspiratória é o lar compartilhado por regimes ditatoriais e ideólo
  - ([[88N96e Magnoli D.. Da revolucao a revolta\|88N96e Magnoli D.. Da revolucao a revolta]])
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/7-d5-a5-harari-sapiens-r4-final-em-frases-3/#amnivk" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -66,7 +66,7 @@ esse “povo” idealizado nos discursos nacionalistas ou patriotas – utilizo 
  - ([[86I37d o que e nacionalismo patriotismo e nacao comunidade imaginaria\|86I37d o que e nacionalismo patriotismo e nacao comunidade imaginaria]])
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/96-z54e-fukuyama-nacionalismo-por-que-as-identidades-nacionais-importam/#51holz" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -76,7 +76,7 @@ A identidade nacional origina-se na crença compartilhada na legitimidade do sis
  - [[96Z54e Fukuyama nacionalismo Por que as identidades nacionais importam\|96Z54e Fukuyama nacionalismo Por que as identidades nacionais importam]]
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/96-z54e-fukuyama-nacionalismo-por-que-as-identidades-nacionais-importam/#vwmqo8" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -86,7 +86,7 @@ Uma quarta função da identidade nacional é promover um raio mais amplo de con
  - [[96Z54e Fukuyama nacionalismo Por que as identidades nacionais importam\|96Z54e Fukuyama nacionalismo Por que as identidades nacionais importam]]
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/96-z54e-fukuyama-nacionalismo-por-que-as-identidades-nacionais-importam/#4wimvq" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

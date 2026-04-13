@@ -12,3 +12,5 @@ cvç: tag #inferno
 
 4. ![Ciencias-1775260462100.webp](/img/user/assets/Ciencias-1775260462100.webp)
    O inferno do cientista é ouvir as ideias de quem se informa pela internet. #charges #lol #inferno #ciência #redsoc #novaonda #senso-comum 
+
+5. @BorgesJorgeL: Estuvo, como Dante y como todos Los hombres, en el raro Paraíso Y en los muchos Infiernos necesarios. [[Jorge Luis Borges\|Jorge Luis Borges]] ? viax #paraíso #inferno #condição-humana 
