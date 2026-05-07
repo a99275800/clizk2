@@ -1,9 +1,0 @@
----
-{"dg-publish":true,"permalink":"/240618a-fas-de-celebridades-tem-habilidades-cognitivas-reduzidas/","dg-note-properties":{}}
----
-
-"anos atrás, três pesquisadores publicaram um estudo polêmico na revista "BMC Psychology" que só confirma velhas suspeitas. O título é "[Celebrity worship](https://bmcpsychology.biomedcentral.com/articles/10.1186/s40359-021-00679-3) and cognitive skills revisited". (...) Segundo os autores, pessoas que declaravam uma grande adoração por celebridades tinham uma fraca performance em testes cognitivos verbais e não verbais. (...) Uma dúvida, porém, persistia: essa debilidade cognitiva era causa ou consequência da adoração por celebridades?" (Coutinho, João Pereira. “Para Os Fãs, Taylor Swift é Uma Bênção; Para Mim, Um Desastre Natural.” Folha de S.Paulo. Folha de S.Paulo, June 17, 2024. https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2024/06/para-os-fas-taylor-swift-e-uma-bencao-para-mim-um-desastre-natural.shtml. DII 180624b. 
-
-Remete ao artigo original: McCutcheon, L.E., Zsila, Á. & Demetrovics, Z. Celebrity worship and cognitive skills revisited: applying Cattell’s two-factor theory of intelligence in a cross-sectional study. _BMC Psychol_ **9**, 174 (2021). https://doi.org/10.1186/s40359-021-00679-3
-
-[[Psicologia\|Psicologia]] [[Como o homem pensa vieses cognitivos\|Como o homem pensa vieses cognitivos]] [[Sapiens kkk\|Sapiens kkk]] [[Brave new world\|Brave new world]] #bnw #sapienskkk #comoohomempensa #psicologia #celebridades [[celebridades-fama-gloria-renome-e-seu-culto\|celebridades-fama-gloria-renome-e-seu-culto]] famosos influencers
