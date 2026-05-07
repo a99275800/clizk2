@@ -1,5 +1,0 @@
----
-{"dg-publish":true,"permalink":"/260208-endereco-tumulo-dona-chica-erich/","dg-note-properties":{}}
----
-
-Entrando no cemitério novo de Apucarana pela avenida principal, andando pela pista da direita, vira a direita no último poste antes da caixa d'água alta, no túmulo do Orestes Simião. O túmulo deles tem um painel que imita duas "asas": duas linhas retas se tocando em ângulo reto embaixo, e os outros dois lados do que poderia ser um quadrado são na verdade uma linha só, curva, ligando as extremidades das retas (imagine um triângulo retângulo, só que a hipotenusa não é uma reta mas uma curva convexa). É de granito bege. Fica (para quem olha da avenida) atrás do da ???. Temos 3 fotos no Gpho com data de hoje, 08/02/2026. #família #links #memorabilia [[memorabilia index\|memorabilia index]] 
