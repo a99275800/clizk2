@@ -1,8 +1,0 @@
----
-{"dg-publish":true,"permalink":"/241003a-minimalismo-e-a-morte-do-design/","dg-note-properties":{}}
----
-
-
-Uma série de 10 fotos de um tweet de @theculturaltutor analisando como a hegemonia do design minimanista é sintoma da morte do design: nada pode ter personalidade ou significado, porque qualquer sinal de personalidade pode irritar alguém, e todo significado por virar polêmica. Obras, objetos, prédios, monumentos e móveis que não significam nada, não dizem nada, são neutros e assépticos. O detalhe nas coisas é que demonstra o gosto, adiciona significado e personalidade. O design moderno é desprovido de detalhe para não ter personalidade, não revelar, atrair ou desagradar qualquer gosto. O que não tem detalhe não tem identidade, é neutro, não impõe nada porque não afirma nada. Neutralidade absoluta, nenhum detalhe, nenhuma identidade. O que isso diz sobre nós?
-
-UIUI 241003A IC - prints em https://share.icloud.com/photos/027IT9kLXeP3O3rvSPVJDf3iQ (porque o X / twitter continua proibido no Brasil; procurar pelo "título" "A morte (o fim) do design e o minimalismo design minimalista") - #arte [[Arte\|Arte]] RQR6n4 ex-34A34d conceito [[Estetica\|Estetica]] filoarte (mix RQR6n2 ex-61Z54v #narratologia ) #bnw [[Brave new world\|Brave new world]] RQR17a ex-76U12m #cultwars [[cultwars-guerras-culturais\|cultwars-guerras-culturais]] ideologias narrativas wokeísmo politicamente correto RQR17L  -  #mimimi [[Mimimi o planeta dos coitados civilizacao de retardados\|Mimimi o planeta dos coitados civilizacao de retardados]] RQR17o ex-97D25z - 2024-10-03 13:48
