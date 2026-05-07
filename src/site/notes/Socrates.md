@@ -58,3 +58,8 @@ Hall diz de [[Socrates\|Socrates]]: "Of God he said: "What He is I know not; wha
 (7) W2012u 14.
 
 (8) Hall, Manly P. (1928). The secret teachings of all ages. Apud Sacred Texts.
+
+## material novo
+
+1. Vamos trocar nosso relacionamento platônico por um socrático? // [Por quê](https://photos.fife.usercontent.google.com/pw/AP1GczMm39HpKKmPN0Br0MXKC1tFENGMvFCXbZ7ilS6l0ztx_X5L6TjX26kHRQ=w1066-h1112-s-no?authuser=0)? #charges #amor #filohumor 
+2. Ninguém sabe de nada! // Que alívio, pensei [que era só eu...](https://photos.fife.usercontent.google.com/pw/AP1GczPhJ51T5WnGqCmLos3e8-6xtdP7xhy9c0k_qqmXm5d-RAb8-19YfqNW4Q=w720-h718-s-no?authuser=0) #charges 

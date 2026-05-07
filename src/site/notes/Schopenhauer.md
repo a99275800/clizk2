@@ -48,8 +48,7 @@ obs.: aqui estava uma imagem: n-shopp.jpg
 Isso é excelente: "Queixamo-nos de que vivemos na ignorância, incapazes de entender a relação entre todos os fatos da existência e, em particular, a relação entre nossa existência particular e o todo da existência. Não apenas a vida é curta, mas nosso conhecimento dela é drasticamente limitado. Não conseguimos olhar para trás e ver aquém do nosso nascimento ou olhar para a frente e ver além da morte. Nossa consciência é uma centelha passageira no meio da noite. É como se algum demônio maligno tivesse limitado nossa capacidade de saber, de modo a poder se regozijar com nossa inquietação. Essa queixa, porém, é injustificada. Baseia-se na idéia errônea de que o mundo foi criado por um intelecto e, por conseguinte, existiu como imagem mental (ou representação) antes de se tornar real. De acordo com essa visão equivocada, o mundo derivou do conhecimento, sendo, dessa forma, acessível ao conhecimento — capaz de ser por ele analisado e totalmente compreendido. Mas a verdade é que aquilo de que nos queixamos não saber não é do conhecimento de ninguém ou de qualquer coisa e é, em si, absolutamente incognoscível. É, na realidade, inconcebível" (Parerga...).
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/shoppenhauer-sobre-o-livre-arbitrio/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
