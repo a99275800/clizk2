@@ -1,8 +1,0 @@
----
-{"dg-publish":true,"permalink":"/240628b-desenho-da-capa-original-de-harry-potter-vendido-por-2-milhoes-de-dolares/","dg-note-properties":{}}
----
-
-
-Original Cover Art for ‘Harry Potter’ Fetches (cifrão)1.92 Million at Auction (...) Thomas Taylor was a recent art school graduate when he was paid (cifrão)650 for his cover illustration for J.K. Rowling’s British publication of her first novel. The original cover art for the first edition of “Harry Potter and the Philosopher’s Stone” sold for (cifrão)1.92 million at auction. Decades earlier, the illustrator Thomas Taylor was paid (cifrão)650 to produce it. (...) The cover was Mr. Taylor’s first professional assignment. And, at the time, “J.K. Rowling was as unknown as I was,” he wrote in his blog, referring to the novel’s British author. (...) In 2001, when its film adaptation was being released, he decided to sell the illustration, thinking it would rise in value and fearing that he could not look after it properly and might spill coffee on it, he said. He sold it for about (cifrão)100,000 at auction.
-|||
-(Article Name: Original Cover Art for ‘Harry Potter’ Fetches (cifrão)1.92 Million at Auction Publication: The New York Times Author: By JOHN YOON Start Page: B3 End Page: B3. Date:  28 Jun 2024.) Q.v.:  - #arte [[Arte\|Arte]] RQR6n4 ex-34A34d conceito [[Estetica\|Estetica]] filoarte (mix RQR6n2 ex-61Z54v #narratologia ) -  [[Espantos\|Espantos]] #espantos  espantos - #celebridades [[celebridades-fama-gloria-renome-e-seu-culto\|celebridades-fama-gloria-renome-e-seu-culto]] famosos influencers - #saudade [[Nostalgia e colecionismo\|Nostalgia e colecionismo]] nostalgia RQR6h18.
