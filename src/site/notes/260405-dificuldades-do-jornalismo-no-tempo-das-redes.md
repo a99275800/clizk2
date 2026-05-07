@@ -1,9 +1,0 @@
----
-{"dg-publish":true,"permalink":"/260405-dificuldades-do-jornalismo-no-tempo-das-redes/","dg-note-properties":{}}
----
-
-‌Faz sentido ler um **jornal (ainda) feito para as redes sociais**? (...) Parcialidade, fake news e pressões evidenciam relação tensa com plataformas digitais, mesmo depois de duas décadas de convívio intenso (...) tensões do **jornalismo feito a partir das redes —ou para elas**. Enquanto os **jornais esperam o arrebatamento via IA** (...) Um dos problemas é a percepção de que **um jornal não oferece nada que as próprias redes sociais já não forneçam "de graça"** (na verdade, em troca de muita coisa, mas essa é outra discussão). O mais grave é quando quem assina o jornal paga por **"conteúdo" distorcido, em geral produzido no ritmo emocionado das redes**. (...) falta de checagem e ausência de ceticismo. (...) com ajuda do 1º de abril. A BBC e outros, como a Folha, caíram na armadilha de um perfil no X/Twitter que se passava pelo veterinário Joe Hollins. Na vida real, ele cuida de Jonathan, a tartaruga mais velha do mundo. (...) Mesmo com duas décadas de convívio com as redes, ainda há defesas a serem reforçadas. (...) **==No site, que bem ou mal integra o ecossistema da indignação de resultados ("rage bait"==**), (...) O "rage bait" já existia na Ilustrada bem antes da internet
-
-MORAES, Alexandra. **Faz sentido ler um jornal (ainda) feito para as redes sociais?** Folha de S.Paulo. Disponível em: <https://www1.folha.uol.com.br/colunas/alexandra-moraes-ombudsman/2026/04/faz-sentido-ler-um-jornal-ainda-feito-para-as-redes-sociais.shtml>. Acesso em: 5 abr. 2026.
-
-‌Criado em 05-04-2026 — #mídia #bnw #redsoc #fakenews #cultwars 
