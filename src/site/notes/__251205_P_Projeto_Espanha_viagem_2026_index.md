@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/251205-p-projeto-espanha-viagem-2026-index/","dg-note-properties":{}}
 ---
 
-
 ## lista de tarefas
 PROJETO ESPANHA 2026-TASKS #projetos #roseli #vip #task
 - [x] pagar ou não pagar paranaguá
@@ -24,13 +23,6 @@ PROJETO ESPANHA 2026-TASKS #projetos #roseli #vip #task
 - [ ] avisar o Eurostars de Barcelona sobre nosso atraso!!! #viagens #projetos
 - [ ] contatos no celular
 - [x] limpar fotos ICloud
-
-
-/Users/albertosantos/Library/Mobile Documents/iCloud~md~obsidian/Documents/Oz2/assets/apolice-seguro-viagem-VISA-AIG-a0YbH00000dUf45UAC.pdf
-
-assets/apolice-seguro-viagem-VISA-AIG-a0YbH00000dUf45UAC.pdf
-
-[ksjdhfkasjhdfla](obsidian://open?vault=Oz2&file=assets%2Fapolice-seguro-viagem-VISA-AIG-a0YbH00000dUf45UAC.pdf)
 
 ## anexos
 1. [[251210 licenca ferias viagem espanha maio 2026\|251210 licenca ferias viagem espanha maio 2026]]
