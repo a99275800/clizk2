@@ -1,7 +1,0 @@
----
-{"dg-publish":true,"permalink":"/260305-violencia-contra-mulher-dados-2026-fev/","dg-note-properties":{}}
----
-
-**Violência contra a mulher**. 13,1% das vítimas de feminicídio tinham medida protetiva, diz [pesquisa](https://g1.globo.com/politica/noticia/2026/03/04/131percent-das-vitimas-de-feminicidio-tinham-medida-protetiva-quando-foram-mortas-aponta-pesquisa.ghtml). Metade dos feminicídios ocorre em cidades [de até 100 mil habitantes](https://g1.globo.com/politica/noticia/2026/03/04/metade-dos-feminicidios-no-brasil-ocorre-em-cidades-de-ate-100-mil-habitantes-diz-pesquisa.ghtml), das quais [só 5% têm delegacia da mulher](https://www1.folha.uol.com.br/cotidiano/2026/03/metade-dos-feminicidios-ocorre-em-cidades-com-ate-100-mil-habitantes-onde-so-5-tem-delegacia-da-mulher.shtml). 8 em 10 casos são cometidos por ex ou atual parceiro; [62% das vítimas é negra](https://www1.folha.uol.com.br/cotidiano/2026/03/8-em-10-feminicidios-no-pais-foram-cometidos-pelo-ex-ou-atual-parceiro-62-das-vitimas-sao-negras.shtml). 74% das mulheres relatam já ter sofrido assédio, indica [pesquisa](https://www1.folha.uol.com.br/cotidiano/2026/03/74-das-mulheres-dizem-ja-ter-sofrido-assedio-aponta-pesquisa-em-10-capitais-brasileiras.shtml) realizada em dez capitais do país.
-
-Criado em 05-03-2026. #machismo [[Feminismo\|Feminismo]] [[Crime e violencia\|Crime e violencia]] [[Brasis\|Brasis]] #brasis #crime 
