@@ -1,9 +1,0 @@
----
-{"dg-publish":true,"permalink":"/260223-bebes-entendem-moralidade-preferem-personagem-bonzinho/","dg-note-properties":{}}
----
-
-"É **surpreendente quanto os bebês parecem entender sobre moralidade. E parece que eles têm esse senso antes mesmo de completar um ano de vida**." Dessa forma, o psicólogo Paul Bloom, professor da Universidade Yale (Estados Unidos), (...)  o primatólogo [[Frans de Waal\|Frans de Waal]] registrou sensos de justiça e moral em chimpanzés e bonobos, o que leva a crer que **a moralidade é, de certa forma, um caráter evolutivo na nossa linhagem** (...)  partindo dessa premissa que Bloom e sua equipe resolveram investigar os bebês (...)  porque ainda não foram influenciados pela cultura (...)  Descobrimos em nossos estudos que **os bebês sistematicamente tendem a escolher o personagem bom, não o mau**", diz o psicólogo (...)  nos bebês o senso de expectativa ainda não foi construído (...)  é plausível que isso seja evolução biológica, não cultural  
-
-BOTTALLO, A. **“É surpreendente quanto os bebês parecem entender sobre moralidade”, diz pesquisador**. Disponível em: <https://www1.folha.uol.com.br/ciencia/2026/02/e-surpreendente-quanto-os-bebes-parecem-entender-sobre-moralidade-diz-pesquisador.shtml>. Acesso em: 23 fev. 2026.
-
-Criado em 23-02-2026 — #psicologia #infância #comoohomempensa #sistemas-éticos #cultura-LS #evolução #hobbes-vs-rousseau (bairrismo) [[21N97d infancia tema\|21N97d infancia tema]], [[260211-hobbes-vs-rousseau\|260211-hobbes-vs-rousseau]], [[Psicologia\|Psicologia]], [[Cultura\|Cultura]], [[Sistemas eticos fundamentos da etica\|Sistemas eticos fundamentos da etica]], [[Evolucao\|Evolucao]], [[Como o homem pensa vieses cognitivos\|Como o homem pensa vieses cognitivos]]. 
