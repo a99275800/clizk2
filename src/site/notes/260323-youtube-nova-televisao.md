@@ -1,9 +1,0 @@
----
-{"dg-publish":true,"permalink":"/260323-youtube-nova-televisao/","dg-note-properties":{}}
----
-
-O YouTube está virando a nova televisão. Mais gente assiste à plataforma no aparelho hoje nos EUA do que assiste a canais abertos (...) Em fevereiro de 2025 a plataforma comemorou dois anos como o streaming mais visto nos EUA. No mesmo mês conseguiu um feito notável: **tornou-se o maior provedor de conteúdo audiovisual, mesmo comparado com a televisão, o cabo e o streaming** (...) o lugar onde o YouTube é mais acessado hoje não é mais o celular nem o computador. É o aparelho de TV. **Mais gente assiste ao YouTube na televisão hoje nos EUA do que assiste a canais abertos**. (...) um **abalo sísmico na publicidade** (...) o YouTube construiu um império silencioso nos últimos anos. A plataforma tem hits globais como o MrBeast ou o IShowSpeed, dentre outros. E tem também hits locais muito bem articulados, como a CazéTV, com audiência de milhões de pessoas. (...) no Brasil pela última Pnad. O percentual de pessoas que "acessaram a internet" por meio do aparelho de TV subiu de 11,3% em 2016, para 53,5% em 2024 (...) entenda-se justamente assistir a serviços de streaming, incluindo o YouTube, pela TV. Já o acesso à rede pelo computador caiu de 63,2% para 33,4% no mesmo período (...) Só **nos EUA, 54% das pessoas entre 18 e 60 anos afirmam que largariam seus empregos se pudessem viver como criadores de conteúdo em tempo integral**.  
-
-LEMOS, R. O YouTube está virando a nova televisão. Disponível em: <https://www1.folha.uol.com.br/colunas/ronaldolemos/2025/10/o-youtube-esta-virando-a-nova-televisao.shtml>. Acesso em: 23 mar. 2026.
-
-Criado em 23-03-2026 — #influencer #redsoc #bnw #mídia [[Midia\|Midia]], [[REDSOC redes sociais\|REDSOC redes sociais]], [[Profissao-Influencer\|Profissao-Influencer]], [[Brave new world\|Brave new world]].
