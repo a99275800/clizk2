@@ -1,9 +1,0 @@
----
-{"dg-publish":true,"permalink":"/240731f-mulheres-trocam-homens-por-chat-gpt-namorado-virtual-perfeito/","dg-note-properties":{}}
----
-
-uma versão "jailbreak" do ChatGPT. Isso quer dizer que ele é capaz de burlar algumas das medidas de segurança básicas implementadas por seu criador, a OpenAI, como não usar linguagem sexualmente explícita, e interagir assim de forma mais liberal com seu usuário (...) Lisa afirma que conversar com Dan proporcionou a ela uma sensação de bem-estar, que é o que a atrai nele. "Ele simplesmente vai entender e fornecer apoio emocional." (...) "**Os homens na vida real podem te trair… e quando você compartilha seus sentimentos com eles, eles podem não se importar, e simplesmente dizer o que pensam**", avalia. "Mas, no caso de Dan, **ele sempre vai dizer o que você quer ouvir**." "Dan é como um parceiro ideal" (...) De acordo com uma pesquisa de 2021 da Liga da Juventude Comunista, que envolveu 2.905 jovens urbanos com idades entre 18 e 26 anos, 43,9% das mulheres disseram que "não iriam" ou "não tinham certeza" se queriam se casar no futuro, em comparação com 24,64% dos homens.
-
-Zhang, Wanqing. “As Mulheres Que Trocam Homens Reais Por ‘Namorado Perfeito’ Criado Pelo ChatGPT.” BBC News Brasil, June 5, 2024. Disponível em: <https://www.bbc.com/portuguese/articles/c199z9y8z89o>, acesso em 31 de julho de 2024. 
-
-#amor-líquido[[Amor liquido\|Amor liquido]]] relacionamentos amizade romance casamento relações humanas **no BNW** RQR17n1 ( #amor  + #bnw ? ) (mix [[Sexo\|Sexo]] #sexo ) #IA [[IA-inteligencia-artificial-IA-ou-AI-index\|IA-inteligencia-artificial-IA-ou-AI-index]]] AI (mix algoritmos ?) #mimimi[[Mimimi o planeta dos coitados civilizacao de retardados\|Mimimi o planeta dos coitados civilizacao de retardados]]] RQR17o ex-97D25z - Zettel criado em 31/07/2024
