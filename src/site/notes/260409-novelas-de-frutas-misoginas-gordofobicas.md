@@ -1,9 +1,0 @@
----
-{"dg-publish":true,"permalink":"/260409-novelas-de-frutas-misoginas-gordofobicas/","dg-note-properties":{}}
----
-
-Abacatudo, Moranguete... 'Novelas de frutas' viralizam e divertem, mas acendem alerta de psicólogos Conteúdos feitos por IA simulam desenhos animados e somam milhões de visualizações com roteiros misóginos e violentos. Sucesso impulsiona venda de cursos que prometem 'renda extra'. (...) A estética lúdica (que remete a desenhos infantis) é um convite para que crianças e adolescentes consumam, sem filtro, roteiros carregados de palavrões e de discursos preconceituosos. (...) O fenômeno furou a bolha do entretenimento e mobilizou grandes marcas. (...) já se converteram em um modelo de negócio. Na plataforma Hotmart, o "Método Frutas Virais" é ofertado por diferentes vendedores por valores entre R$ 6,90 e R$ 47, com a promessa de ensinar ensinar qualquer aluno a criar seus próprios personagens e monetizar em dólar para fazer uma "renda extra". (...) o formato utiliza a aparência de desenho animado para mascarar conteúdos de ódio. (...) "Eles aludem à objetificação feminina, gordofobia e relacionamentos tóxicos para validar a existência dos personagens", observa. (...) apresentam cenas de violência física e psicológica sem qualquer consequência ou profundidade.
-
-FERNANDES, F. Abacatudo, Moranguete... “Novelas de frutas” viralizam e divertem, mas acendem alerta de psicólogos | G1. Disponível em: <https://g1.globo.com/pop-arte/noticia/2026/04/09/abacatudo-moranguete-novelas-de-frutas-viralizam-e-divertem-mas-acendem-alerta-de-psicologos.ghtml>. Acesso em: 9 abr. 2026.
-
-Criado em 09-04-2026 — #bnw #brasis #redsoc #mídia #malandragem #mimimi #cultwars #machismo #gerações #febeapa #iA 
