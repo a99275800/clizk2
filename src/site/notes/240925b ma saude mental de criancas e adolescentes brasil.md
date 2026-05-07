@@ -1,9 +1,0 @@
----
-{"dg-publish":true,"permalink":"/240925b-ma-saude-mental-de-criancas-e-adolescentes-brasil/","dg-note-properties":{}}
----
-
-A mais recente Pesquisa Nacional de Saúde Escolar, de 2019, revelou que 31,4% dos alunos entrevistados disseram se sentir tristes com frequência, e que 17,7% avaliaram negativamente a sua saúde mental. Entre 2011 e 2022, a taxa de suicídios na faixa etária entre 10 e 24 anos cresceu 6%, e a de autolesões, 29%, segundo análise realizada pelo Centro de Integração de Dados e Conhecimentos para Saúde da Fundação Oswaldo Cruz Bahia, com base em dados do Ministério da Saúde (...) 3.200 crianças entre 5 e 14 anos tiraram a própria vida no Brasil de 2000 a 2021, segundo registros do Ministério da Saúde (...) e a chance de uma pessoa entre 10 e 19 anos provocar a própria morte foi 21% maior do que entre jovens adultos (...) a taxa de crianças de 10 a 14 anos com ansiedade é de 125,8 a cada 100 mil. Entre adolescentes, salta para 157 a cada 100 mil. Em pessoas com mais de 20 anos, o número cai para 112 a cada 100 mil.
-
-Rupp, Isadora. 2024. “Qual o quadro da saúde mental de crianças e adolescentes no Brasil.” Nexo Jornal. 2024. Disponível em: <https://www.nexojornal.com.br/expresso/2024/09/23/saude-mental-no-brasil-criancas-e-adolescentes>, acesso em 25 de setembro de 2024. 
-
-UIUI 240925b - #brasis [[Brasis\|Brasis]] #doenças-bnw tdah autismo depressão burnout demência #brasis [[Brasis\|Brasis]] #bnw - #redsoc [[REDSOC redes sociais\|REDSOC redes sociais]] - #doenças-bnw [[Doencas do bnw tdah TEA autismo depressao burnout demencia obesidade\|Doencas do bnw tdah TEA autismo depressao burnout demencia obesidade]] ansiedade alzheimer - Zettel criado em 25/09/2024
