@@ -1,9 +1,0 @@
----
-{"dg-publish":true,"permalink":"/260404-60-por-cento-dos-restaurantes-sentem-efeito-mounjaro/","dg-note-properties":{}}
----
-
-O "efeito Mounjaro", causado pela popularização de medicamentos para emagrecer, já impacta 61% dos bares e restaurantes brasileiros, segundo dados da Abrasel. A principal mudança é a queda no consumo de pratos principais e o aumento na procura por miniporções e entradas. O setor também observa uma migração para bebidas sem álcool, refletindo o menor apetite e as restrições dos utilizadores. Para evitar o desperdício, estabelecimentos como o restaurante Nou, em São Paulo, já oferecem versões reduzidas que representam 25% das vendas. Curiosamente, o segmento de confeitaria premium parece mais "blindado", com clientes preferindo pequenas quantidades de doces de alta qualidade. A tendência de pratos menores deve consolidar-se à medida que o acesso a estes fármacos se torna mais fácil com a quebra de patentes. Empresários adaptam-se agora para oferecer experiências gastronómicas focadas na qualidade e não na quantidade. O desafio é manter a rentabilidade enquanto o ticket médio sofre pressão devido à redução do consumo individual. No geral, o mercado vê esta mudança como uma transformação permanente nos hábitos de consumo fora de casa.
-
-FERREIRA, Luiza. **Seis em cada dez bares e restaurantes sentiram impacto do efeito Mounjaro**. Estadão (Paladar), São Paulo, 2026. Disponível em: https://www.estadao.com.br/paladar/restaurantes-e-bares/seis-em-cada-dez-bares-e-restaurantes-sentiram-impacto-do-efeito-mounjaro/. Acesso em: 4 abr. 2026.
-
-Criado em 04-04-2026 — #brasis #medicalização #doenças-bnw #espantos #bnw #capitalismo #mimimi #gerações [[231111c medicalizacao da vida\|231111c medicalizacao da vida]], [[Doencas do bnw tdah TEA autismo depressao burnout demencia obesidade\|Doencas do bnw tdah TEA autismo depressao burnout demencia obesidade]] #economia 
