@@ -1,7 +1,0 @@
----
-{"dg-publish":true,"permalink":"/251208-governo-governava-almas-agora-corpos/","dg-note-properties":{}}
----
-
-What does government govern? What, in other words, is government the government _of_? The answer – at least in the West – has shifted over time. In the age of religion, **kings and queens ruled over souls, preparing them for the divine beyond.** **After the Enlightenment, the soul gave way to the mind as the focus of governance**. By the late 18th century, the target had shifted again. In the first volume of _The History of Sexuality_ (1976), the philosopher Michel Foucault observed that, as the 19th century approached, government was turning its gaze to the body itself. Biological life was no longer incidental to politics: life and death, sickness and health became objects of management, control and regulation. Foucault called this new regime ‘biopolitics’ or ‘biopower’. (ALEXANDER, Travis. **Our political moment is ripe for David Cronenberg’s body horror**. Aeon.co. Disponível em: <https://aeon.co/essays/our-political-moment-is-ripe-for-david-cronenbergs-body-horror>. Acesso em: 9 dez. 2025.)
-
-#bnw #política #poder #ética [[Etica\|Etica]] [[Etica\|Etica]] [[Foucault\|Foucault]] [[Foucault em 90 minutos\|Foucault em 90 minutos]]  [[Nova onda\|Nova onda]] [[231005d projeto Conjuri24 preparacao ideias e notas\|231005d projeto Conjuri24 preparacao ideias e notas]]
