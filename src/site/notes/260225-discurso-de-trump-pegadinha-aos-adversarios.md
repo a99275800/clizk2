@@ -1,8 +1,0 @@
----
-{"dg-publish":true,"permalink":"/260225-discurso-de-trump-pegadinha-aos-adversarios/","dg-note-properties":{}}
----
-
-Donald Trump se superou e apresentou o mais longo discurso do Estado da União da História dos Estados Unidos, tecendo uma versão própria da realidade do país durante 1 hora e 48 minutos. O intuito era aproveitar a audiência televisiva para recuperar pontos junto ao eleitorado, que, em novembro, julgará o governo nas eleições de meio de mandato para renovar a Câmara e parte do Senado. Para isso, o presidente atuou como showman e abusou do tom populista e divisivo.
-Num raro momento em que conclamou pela união do país, lançou uma pegadinha para constranger e acuar a oposição democrata, convocando os todos congressistas a aderirem ao seu governo: “Se você concorda com esta declaração, levante-se e mostre seu apoio: o primeiro dever do governo americano é proteger os cidadãos americanos, e não os imigrantes ilegais". Os republicanos aplaudiram de pé, enquanto os democratas permaneceram sentados, oferecendo ao presidente a resposta esperada. "Vocês deveriam ter vergonha de si mesmos por não se levantarem", declarou, ovacionado pelos correligionários republicanos. ([fonte](https://g1.globo.com/mundo/blog/sandra-cohen/post/2026/02/25/em-espetaculo-a-nacao-trump-destila-odio-partidario-e-lanca-pegadinha-aos-democratas.ghtml))
-
-Criado em 25-02-2026 — #novaonda #covfefe #fakenews #bnw #populismo [[Populismo\|Populismo]], [[Nova onda\|Nova onda]], [[Brave new world\|Brave new world]], [[Covfefe\|Covfefe]], [[Argumentacao\|Argumentacao]], [[Sofismas\|Sofismas]] #sofismas  #argumentação 
