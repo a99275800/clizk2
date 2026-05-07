@@ -1,8 +1,0 @@
----
-{"dg-publish":true,"permalink":"/240622g-consumo-de-combustiveis-fosseis-continuara-crescendo/","dg-note-properties":{}}
----
-
-
-A EIA – uma agência norteamericana de estatísticas de energia (...) relatório de 2023, a EIA faz projeções da produção e uso de energia até o ano de 2050. Em 2022, os combustíveis fósseis (...) representavam cerca de 80% das fontes de produção de energia, enquanto as fontes renováveis (...) representavam 20%. **Em 2050, a EIA projeta que essas fontes renováveis representarão 30% das fontes de energia** (...) os combustíveis fósseis ainda representarão 70% (...). Mas (...) o uso de combustíveis fósseis para a produção de energia vai aumentar até 2050, de 510 para 600 quatrilhões de BTUs (...) porque a demanda por energia global vai aumentar de 640 para 850 quatrilhões de BTUs até 2050 (...) **somente para estabilizar o consumo de combustíveis fósseis nos atuais patamares, precisaríamos que o aumento do uso de combustíveis renováveis fosse de 170%**, e não de 100% (...) Segundo o relatório da EIA, os países **ricos (...) serão responsáveis por apenas 11% do aumento do consumo de energia** até 2050. **O resto será demandado por países pobres** (...) Para que o consumo de combustíveis fósseis permanecesse constante (...) seria necessário (...) **“comer menos carne e voar menos”**. (Article Name: Os botes salva-vidas do aquecimento global - Publication: O Estado de S. Paulo. - Date: 22 jun 2024 - Section: O ESTADO DE S. PAULO - Author: Marcelo Guterman ENGENHEIRO E ANALISTA  FINANCEIRO -  Start Page:A4 - End Page:A4)
-
-(q.v. #ambiente [[Meio-ambiente\|Meio-ambiente]] ambiental poluição ecologia efeito estufa apocalipse catástrofe climático RQR17R #política [[Politica\|Politica]] RQR6e2 61U15a misc div)
