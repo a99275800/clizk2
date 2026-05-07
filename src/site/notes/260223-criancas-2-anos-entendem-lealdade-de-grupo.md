@@ -1,9 +1,0 @@
----
-{"dg-publish":true,"permalink":"/260223-criancas-2-anos-entendem-lealdade-de-grupo/","dg-note-properties":{}}
----
-
-**Crianças de apenas dois anos de idade já esperam que outras pessoas mostrem sinais de lealdade ao grupo de que fazem parte**, mas também que tenham suas próprias preferências quando não há influência desse grupo (...)  é possível medir o grau de interesse e surpresa dos bebês com base no tempo que eles fixam o olhar em determinada cena ou pessoa (...)  crianças na faixa dos dois anos **ficam surpresas quando fantoches ou personagens de desenhos animados não retribuem uma ajuda ou atrapalham outro indivíduo que está em dificuldade –por outro lado, tendem a preferir personagens "bonzinhos"**. (...)  Elas propõem, portanto, que nessa idade os seres humanos já estão desenvolvendo a capacidade de distinguir entre preferências pessoais e aquilo que as normas de um grupo exigem de seus membros, como mostrar lealdade a um tipo de conduta diante de quem é de fora do grupo   
-
-LOPES, R. J. **Criança de 2 anos já esperam dos outros sinais de lealdade**. Disponível em: <https://www1.folha.uol.com.br/ciencia/2026/02/crianca-de-2-anos-ja-e-bairrista-com-normas-do-grupo-diz-estudo.shtml>. Acesso em: 23 fev. 2026.
-
-Criado em 23-02-2026 — #psicologia #infância #comoohomempensa #sistemas-éticos #cultura-LS #evolução #hobbes-vs-rousseau (bairrismo) [[21N97d infancia tema\|21N97d infancia tema]], [[260211-hobbes-vs-rousseau\|260211-hobbes-vs-rousseau]], [[Psicologia\|Psicologia]], [[Cultura\|Cultura]], [[Sistemas eticos fundamentos da etica\|Sistemas eticos fundamentos da etica]], [[Evolucao\|Evolucao]], [[Como o homem pensa vieses cognitivos\|Como o homem pensa vieses cognitivos]]. 
