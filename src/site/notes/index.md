@@ -12,4 +12,4 @@
 Teoricamente, uma lista dos zettels publicados aparece aí à esquerda da tela. 
 
 ---
-#internas #indexes #vip — Última revisão em 11-02-2026.
+#internas #indexes #vip — Última revisão em 07-05-2026.
