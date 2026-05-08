@@ -1,9 +1,0 @@
----
-{"dg-publish":true,"permalink":"/mediacao-parental-mundo-digital-redes-sociais/","dg-note-properties":{}}
----
-
-60% dos responsáveis entrevistados acham **“difícil” ou “muito difícil” fazer o acompanhamento digital dos seus filhos**, destacando que sentem uma necessidade de maior capacitação e suporte para as famílias ... No consultório, muitos **pais admitem que se sentem menos desconfortáveis em falar com os filhos sobre sexo do que sobre o uso da internet**. Isso acontece porque, correta ou incorretamente, eles sentem que conhecem algo sobre sexo, mas se sentem inseguros ao falar sobre a internet porque **acreditam que os filhos sabem mais sobre isso do que eles**” afirmou o pediatra americano Michael Ritch em entrevista recente, ao lançar seu livro “O guia do midiatra: como criar crianças saudáveis, inteligentes e respeitosas em um mundo saturado de telas” (Artmed Editora), ... A pesquisa do ITS/Redes Cordiais demonstrou que **a maior parte dos cuidadores desconhece o funcionamento de plataformas como Discord e jogos como Roblox e Free Fire**, que oferecem chats e interações constantes, o que amplia riscos digitais como contatos com estranhos e cyberbullying ... **midiatra  (termo que une “mídia” e “pediatra”**
-
-ALVES, Januária Cristina. Os desafios da mediação parental no universo digital. Nexo Jornal. Disponível em: <https://www.nexojornal.com.br/colunistas/2025/11/20/redes-sociais-internet-controle-pais-responsaveis-desafio-dificuldade>. Acesso em: 24 nov. 2025.
-
-#redsoc #bnw #gerações #psicologia [[Psicologia\|Psicologia]] [[Geracoes diferencas geracionais genZ genY genX genA\|Geracoes diferencas geracionais genZ genY genX genA]] [[REDSOC redes sociais\|REDSOC redes sociais]] [[Brave new world\|Brave new world]]
