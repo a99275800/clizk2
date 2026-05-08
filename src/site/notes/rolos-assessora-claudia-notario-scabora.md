@@ -1,7 +1,0 @@
----
-{"dg-publish":true,"permalink":"/rolos-assessora-claudia-notario-scabora/","dg-note-properties":{}}
----
-
-**23-03-2026** Claudia Notario Scabora 15:14: Agora que a Dierli voltou das férias eu queria ver com o Dr. sobre a possibilidade de eu tirar férias também. Eu sei que não tenho 1 ano aqui ainda, mas até onde eu sei, se eu não usufruir das minhas férias ao longo do ano, esses dias vão para o mês de dezembro e para o recesso automaticamente, porque, até onde eu sei, não existe a possibilidade de vender, ou acumular férias de um ano para o outro para os residentes. Então, o que o Dr. Acha sobre a possibilidade de eu tirar 2 semanas de férias em junho, dos dias 8/6 a 19/6? Esses dias não coincidem com as férias de ninguém e também não batem a última semana do mês, em que entram mais projetos de sentença para homologar // como ainda não tem período aquisitivo completo, tem de fazer uma anotação caprichada para não perdermos a conta, e depois tem de lembrar de pedir as férias no sistema, quand // Beleza, Dr., pode deixar que eu vou deixar tudo registrado nas minhas anotações e com as meninas também. Muito obrigada
-
-[[27G68a workstuff _index_\|27G68a workstuff _index_]], #work [[rolos de funcas assessoria assessoras e estagiarias\|rolos de funcas assessoria assessoras e estagiarias]]
