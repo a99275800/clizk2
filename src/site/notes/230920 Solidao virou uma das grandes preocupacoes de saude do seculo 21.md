@@ -1,7 +1,0 @@
----
-{"dg-publish":true,"permalink":"/230920-solidao-virou-uma-das-grandes-preocupacoes-de-saude-do-seculo-21/","dg-note-properties":{"URL":"https://www.bbc.com/portuguese/media-66843698","Glasp URL":"https://glasp.co/BnZTXezFnUZq4ow0bGyYHcyTChz1/p/ihO58L8j81RzB5uD26Hl","Tags":[],"Last updated":"2023-09-20"}}
----
-
-A solidão se tornou uma das grandes preocupações de saúde do século 21 devido à sensação de estar isolado do mundo. Estudos mostram que a solidão pode ter efeitos negativos na saúde física e mental das pessoas, aumentando o risco de doenças cardiovasculares, depressão e ansiedade. A pandemia de COVID-19 intensificou ainda mais esse problema, com o distanciamento social e o isolamento causando um aumento significativo nos sentimentos de solidão. É importante que as pessoas busquem formas de combater a solidão, como manter conexões sociais, participar de atividades em grupo e buscar apoio emocional. Sensação de estar isolado do mundo é uma das grandes preocupações do século 21.
-
-#doenças-bnw #bnw #ética #sapienskkk  #misantropia  #psicologia [[Psicologia\|Psicologia]] [[Doencas do bnw tdah TEA autismo depressao burnout demencia obesidade\|Doencas do bnw tdah TEA autismo depressao burnout demencia obesidade]] [[Brave new world\|Brave new world]] [[Sapiens kkk\|Sapiens kkk]]
