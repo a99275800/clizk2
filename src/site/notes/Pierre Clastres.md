@@ -1,7 +1,0 @@
----
-{"dg-publish":true,"permalink":"/pierre-clastres/","dg-note-properties":{}}
----
-
-1. (p.174): Pierre Clastres tinha toda a razão quando propôs que as pessoas em sociedades sem Estado, em vez de menos consciência política do que as pessoas de hoje, na verdade podiam ter bem mais. (p.174): Aluno de Lévi-Strauss, encampou a ideia do mestre de que os chefes amazônicos eram atores políticos maduros. Mas Clastres também era um anarquista (p.175): essas pessoas geralmente eram mais capazes do que nós de imaginar ordenamentos sociais alternativos e assim criaram “sociedades contra o Estado”. (p.175): Organizaram- se conscientemente de tal modo que jamais poderiam surgir as formas de dominação e poder arbitrário que associamos a “sistemas políticos avançados”.(p.177): Clastres, (p.177): apresentação original sobre a falta de poder dos chefes indígenas, (...) (p.177): “chefe índio típico não é um legislador, um executivo ou um juiz, mas sim um pacificador, um benfeitor dos pobres e um Polônio prolixo” ([[3z31 GRAEBER & WENGROW 2021 cat_obras opus\|3z31 GRAEBER & WENGROW 2021 cat_obras opus]] ) ([[Anarquismo\|Anarquismo]])
-
-#sociologia  [[Sociologia\|Sociologia]] tags:  #filosofia #ONO [[indice onomastico\|indice onomastico]],  [[Filosofia\|Filosofia]],  
